@@ -1,0 +1,2650 @@
+{
+  "schemaVersion": 1,
+  "document": {
+    "title": "Daily invocations",
+    "sourceTitle": "Al-Ma’thurat: Companion on the Path",
+    "subtitle": "Invocations and reading guidance for daily routines and life’s occasions.",
+    "firstPage": 81,
+    "lastPage": 152,
+    "photoCount": 36,
+    "notes": [
+      "This edition follows 36 supplied photographs of consecutive printed pages 81–152. It is an excerpt from Al-Ma’thurat: Companion on the Path, separate from Rosery’s 28-reading Al-Mathurat booklet.",
+      "The contents include 88 Arabic passages, three short formulas printed only in Latin, and five passages of practical guidance across twenty topics. Navigation titles are editorial. Narrator chains and reported rewards are not reproduced in full.",
+      "Arabic, transliteration and English follow the photographed source. Line breaks, spacing, quotation marks and typographic forms are normalized. Differences between the source layers are identified in reading and source notes; missing words are not silently supplied.",
+      "Practice descriptions summarize the book’s instructions. Counts belong to this source edition; footnote numbers are not repetition counts. Variable counts and counts assigned to stages of a prayer remain distinct from a single fixed recitation count.",
+      "Footnote numbering restarts in Section Four on pages 115–152. Each entry retains its part and page context. The cover, publication details and endnote bibliography were not supplied; printed references are preserved without claiming their grading has been verified.",
+      "The photographs remain the reference for transcription review. Qualified Arabic and Islamic editorial review is still required before public distribution."
+    ]
+  },
+  "extraction": {
+    "date": "2026-11-03",
+    "method": "Visual transcription from libheif-decoded photographs; source layers retained separately.",
+    "normalization": "Unicode Arabic; typography, line wrapping and punctuation normalized. Exact identity of every vowel mark is not certified.",
+    "scope": "All displayed Arabic invocation passages and inline Latin formulas in pages 81–152; five practical passages summarized. Not a full transcription of the narrative prose. Printed page 115 is a section contents page.",
+    "sourceManifest": "source-manifest.json"
+  },
+  "entries": [
+    {
+      "id": "daily-waking-praise",
+      "order": 1,
+      "section": "Waking up",
+      "sourceHeading": "First: Invocation for waking up from sleep",
+      "title": "Praise on waking",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "transliteration": "Alḥamdulillāhil ladhī aḥyānā ba‘da mā amātanā wa ilaihin nushūr.",
+      "translation": "Praise is to Allāh who brought us to life after He caused us to die and unto Him is the return.",
+      "practice": "The book places this invocation on waking from sleep.",
+      "repetitions": null,
+      "sourcePages": [
+        81
+      ],
+      "sourceFootnotes": [
+        1
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3493.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-waking-soul",
+      "order": 2,
+      "section": "Waking up",
+      "sourceHeading": "First: Invocation for waking up from sleep",
+      "title": "Gratitude for the return of the soul",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي رَدَّ عَلَيَّ رُوحِي وَعَافَانِي فِي جَسَدِي، وَأَذِنَ لِي بِذِكْرِهِ",
+      "transliteration": "Alḥamdulillāhil ladhī radda ‘alayya rūḥī wa ‘āfānī fī jasadī wa adhina lī bidhikriH.",
+      "translation": "All praise is to Allāh Who returned to me my soul, gave strength to my body and permitted me to remember Him.",
+      "practice": "The book gives this as another invocation on waking.",
+      "repetitions": null,
+      "sourcePages": [
+        81,
+        82
+      ],
+      "sourceFootnotes": [
+        2
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3493.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-waking-tawhid",
+      "order": 3,
+      "section": "Waking up",
+      "sourceHeading": "First: Invocation for waking up from sleep",
+      "title": "Affirming Allah’s oneness on waking",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "Lā ilāha illā llāhu waḥdahu lā sharīka laHu, laHul mulku wa laHul ḥamdu waHuwa ‘alā kulli shain Qadīr",
+      "translation": "None has right to be worshipped except Allāh, Alone without any partner, His is Sovereignty and His is praise, and He is Able to do all things",
+      "practice": "The book includes this remembrance in its waking section.",
+      "repetitions": null,
+      "sourcePages": [
+        82
+      ],
+      "sourceFootnotes": [
+        3
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3493.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-sleep-and-wakefulness",
+      "order": 4,
+      "section": "Waking up",
+      "sourceHeading": "First: Invocation for waking up from sleep",
+      "title": "Praise for sleep and wakefulness",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ النَّوْمَ وَالْيَقَظَةَ الْحَمْدُ لِلَّهِ الَّذِي بَعَثَنِي سَالِمًا سَوِيًّا أَشْهَدُ أَنَّ اللَّهَ يُحْيِي الْمَوْتَى وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "Alḥamdulillāhil ladhī khalaqan nawma wal yaqaz̤ata alḥamdulillāhil ‘ladhī ba‘athni sāliman sawiyyan ash-hadu annallāha yuḥyil mawta wahuwa ‘ala kulli shain Qadīr.",
+      "translation": "All praise is to Allāh Who has created sleep and wakefulness. All praise is to Allāh Who has raised us sound and secure. I bear witness that Allāh revives and He is Able to do all things",
+      "practice": "The book includes this as a further invocation on waking.",
+      "repetitions": null,
+      "sourcePages": [
+        82,
+        83
+      ],
+      "sourceFootnotes": [
+        4
+      ],
+      "notes": [
+        "The printed Arabic says ‘raised me’; the book’s English says ‘raised us’. Source wording is retained."
+      ],
+      "readingNote": "The source Arabic says “raised me”; its English says “raised us”.",
+      "sourcePhotoFiles": [
+        "IMG_3493.HEIC",
+        "IMG_3494.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-waking-at-night",
+      "order": 5,
+      "section": "Waking up",
+      "sourceHeading": "First: Invocation for waking up from sleep",
+      "title": "Forgiveness and knowledge on waking at night",
+      "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ، اللَّهُمَّ أَسْتَغْفِرُكَ لِذَنْبِي، وَأَسْأَلُكَ رَحْمَتَكَ، اللَّهُمَّ زِدْنِي عِلْمًا وَلَا تُزِغْ قَلْبِي بَعْدَ إِذْ هَدَيْتَنِي، وَهَبْ لِي مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ",
+      "transliteration": "Lāilāha illā Anta subḥānaKa. Allāhumma astaghfiruKa lidhanbī wa as-aluKa raḥmataK. Allāhumma zidnī ‘ilman wa lā tuzigh qalbī ba‘da idh hadaitanī wa hab lī min ladunKa raḥmatan innaKa Antal wahhāb.",
+      "translation": "None has the right to be worshipped except You Glory be to You. O Allāh! I ask You for forgiveness of my sin, I ask You for Your Mercy. O Allāh, increase me in knowledge and let not my heart deviate (from the truth) now after You have guided me, and grant me mercy from You. Truly You are the Bestower.",
+      "practice": "The preceding paragraph introduces this invocation for waking in the night.",
+      "repetitions": null,
+      "sourcePages": [
+        83,
+        84
+      ],
+      "sourceFootnotes": [
+        5
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3494.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-putting-on-clothes",
+      "order": 6,
+      "section": "Dressing and undressing",
+      "sourceHeading": "Second: Invocation for dressing and undressing",
+      "title": "When putting on clothes",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا هُوَ لَهُ وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا هُوَ لَهُ",
+      "transliteration": "Allāhumma innī as’aluKa min khairihi wa khairi mā huwa lahu wa ’a‘ūdhu biKa min sharrihi washarri ma huwa lahu.",
+      "translation": "O Allāh! I ask You for its goodness and the goodness for which it is made. And I seek refuge with You from its evil and the evil for which it is made.",
+      "practice": "The book introduces this invocation when putting on a garment, such as a shirt, trousers or a turban.",
+      "repetitions": null,
+      "sourcePages": [
+        85
+      ],
+      "sourceFootnotes": [
+        7
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3495.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-new-garment",
+      "order": 7,
+      "section": "Dressing and undressing",
+      "sourceHeading": "Second: Invocation for dressing and undressing",
+      "title": "Gratitude for a new garment",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا الثَّوْبَ وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+      "transliteration": "Alḥamdulillāhil ladhī kasāni hādhath thawba warazaqanīhi min ghairi ḥawlin minnī walaquwwah",
+      "translation": "Praise be to Allāh Who has clothed me with this garment and provided it for me without might nor power from me",
+      "practice": "The book places this invocation when wearing a new garment.",
+      "repetitions": null,
+      "sourcePages": [
+        85,
+        86
+      ],
+      "sourceFootnotes": [
+        8
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3495.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-undressing",
+      "order": 8,
+      "section": "Dressing and undressing",
+      "sourceHeading": "Second: Invocation for dressing and undressing",
+      "title": "Before undressing",
+      "arabic": "بِسْمِ اللَّهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ",
+      "transliteration": "Bismilāhil ladhī lā ilāha illā Huwa",
+      "translation": "In the Name of Allāh other than Whom there is no god worthy of worship but Him.",
+      "practice": "The book gives this invocation before undressing.",
+      "repetitions": null,
+      "sourcePages": [
+        86
+      ],
+      "sourceFootnotes": [
+        9
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3495.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-leaving-home",
+      "order": 9,
+      "section": "Leaving and entering home",
+      "sourceHeading": "Third: Invocation for leaving the house and entering it",
+      "title": "When leaving home",
+      "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Bismillāhi tawakkaltu ‘alAllāhi lā ḥawla walā quwwata illā billāH",
+      "translation": "In the Name of Allāh, I put my trust in Allāh, and there is no might and no power except with Allāh",
+      "practice": "The book gives this invocation on leaving the house.",
+      "repetitions": null,
+      "sourcePages": [
+        87
+      ],
+      "sourceFootnotes": [
+        10
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3496.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-entering-home",
+      "order": 10,
+      "section": "Leaving and entering home",
+      "sourceHeading": "Third: Invocation for leaving the house and entering it",
+      "title": "When entering home",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلِجِ وَخَيْرَ الْمَخْرَجِ بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+      "transliteration": "Allāhumma innī as’aluKa khairal mawliji wakhairal makhraji, bismillāhi walajnā wabismillāhi kharajnā wa ‘alAllāhi Rabbinā tawakkalnā.",
+      "translation": "O Allāh! I ask You for the best entry and the best exit. In the Name of Allāh we have entered. And in the Name of Allāh we have gone out. In Allāh, our Lord I placed my trust.",
+      "practice": "The book places this invocation on entering the house, followed by greeting one’s family.",
+      "repetitions": null,
+      "sourcePages": [
+        87,
+        88
+      ],
+      "sourceFootnotes": [
+        11
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3496.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-walking-to-mosque",
+      "order": 11,
+      "section": "Going to the mosque",
+      "sourceHeading": "Fourth: Invocation for walking to the mosque, entering and leaving it",
+      "title": "Light on the way to the mosque",
+      "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَفِي بَصَرِي نُورًا وَفِي سَمْعِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَأَمَامِي نُورًا، وَخَلْفِي نُورًا، وَاجْعَلْ لِي نُورًا",
+      "transliteration": "Allāhumma ij‘al fī Qalbī nūran, wa fī baṣarī nūran wa fī sama‘ī nūran, wa ‘an yamīnī nūran wa ‘an yasārī nūran, wa fawqī nūran, wa taḥtī nūran, wa amāmī nūran, wa khalfī nūran waj‘al lī nūran.",
+      "translation": "O Allāh! Put into my heart light and in my eyes light, in my ears light, and to my right light, and to my left light, and above me light and beneath me light, and before me light and behind me light and grant me light.",
+      "practice": "The book introduces this invocation while walking to the mosque.",
+      "repetitions": null,
+      "sourcePages": [
+        88,
+        89
+      ],
+      "sourceFootnotes": [
+        12
+      ],
+      "notes": [
+        "The printed transliteration and English include light to the left, above and beneath. Those clauses are absent from the printed Arabic on page 89. The three source layers are retained without silently filling the Arabic."
+      ],
+      "readingNote": "The source transliteration and English contain clauses absent from its Arabic. See the source notes below.",
+      "sourcePhotoFiles": [
+        "IMG_3496.HEIC",
+        "IMG_3497.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-mosque-refuge",
+      "order": 12,
+      "section": "Going to the mosque",
+      "sourceHeading": "Fourth: Invocation for walking to the mosque, entering and leaving it",
+      "title": "Seeking refuge on entering the mosque",
+      "arabic": "أَعُوذُ بِاللَّهِ الْعَظِيمِ وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "transliteration": "’A‘ūdhu billāhil Az̤īmi wa bi WajhiHil Karīmi waSulṭāniHil Qadīmi minash shaiṭānir rajīm.",
+      "translation": "I seek refuge with Allāh, The Great, and with His Honored face, with His primordial power from the accursed devil.",
+      "practice": "The book gives this invocation when entering the mosque.",
+      "repetitions": null,
+      "sourcePages": [
+        89,
+        90
+      ],
+      "sourceFootnotes": [
+        13
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3497.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-mosque-entry-blessings",
+      "order": 13,
+      "section": "Going to the mosque",
+      "sourceHeading": "Fourth: Invocation for walking to the mosque, entering and leaving it",
+      "title": "Allah’s name and blessings on entering",
+      "arabic": "بِسْمِ اللَّهِ اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
+      "transliteration": "Bismillāhi Allāhumma ṣalli ‘ala Muḥammadin",
+      "translation": "In the Name of Allāh. O Allāh! Send Your blessing upon Muḥammad",
+      "practice": "The book gives this formula on entering the mosque.",
+      "repetitions": null,
+      "sourcePages": [
+        90
+      ],
+      "sourceFootnotes": [
+        14
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3497.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-mosque-exit-blessings",
+      "order": 14,
+      "section": "Going to the mosque",
+      "sourceHeading": "Fourth: Invocation for walking to the mosque, entering and leaving it",
+      "title": "Blessings on leaving the mosque",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
+      "transliteration": "Allāhumma ṣalli ‘ala Muḥammadin",
+      "translation": "O Allāh! Send Your blessing upon Muḥammad.",
+      "practice": "Following the entry formula, the book gives this shorter formula on leaving the mosque.",
+      "repetitions": null,
+      "sourcePages": [
+        90,
+        91
+      ],
+      "sourceFootnotes": [
+        14
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3497.HEIC",
+        "IMG_3498.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-mosque-gates-of-mercy",
+      "order": 15,
+      "section": "Going to the mosque",
+      "sourceHeading": "Fourth: Invocation for walking to the mosque, entering and leaving it",
+      "title": "The gates of mercy",
+      "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "transliteration": "Allāhumma ftaḥ lī abwāba raḥmatiK",
+      "translation": "O Allāh! Open for me the gates of Your Mercy",
+      "practice": "The book says to greet the Prophet when entering the mosque, then say this invocation.",
+      "repetitions": null,
+      "sourcePages": [
+        91
+      ],
+      "sourceFootnotes": [
+        15,
+        16
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3498.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-mosque-asking-bounty",
+      "order": 16,
+      "section": "Going to the mosque",
+      "sourceHeading": "Fourth: Invocation for walking to the mosque, entering and leaving it",
+      "title": "Asking for Allah’s bounty on leaving",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "transliteration": "Allāhumma innī as’aluKa min faḍliK",
+      "translation": "O Allāh! I ask You from Your Favour.",
+      "practice": "The book gives this invocation on leaving the mosque.",
+      "repetitions": null,
+      "sourcePages": [
+        91
+      ],
+      "sourceFootnotes": [
+        16
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3498.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-entering-toilet",
+      "order": 17,
+      "section": "Bathroom and intimacy",
+      "sourceHeading": "Fifth: Invocation for going to bathroom and (before) intercourse",
+      "title": "Before entering the toilet",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "transliteration": "Allāhumma innī ‘a‘ūdhubiKa minal khubthi wal khabāithi.",
+      "translation": "O Allāh! I seek refuge with You from the unclean spirits, male and female.",
+      "practice": "The book introduces this invocation on entering the toilet.",
+      "repetitions": null,
+      "sourcePages": [
+        92
+      ],
+      "sourceFootnotes": [
+        17,
+        18,
+        19
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3498.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-bathroom-praise",
+      "order": 18,
+      "section": "Bathroom and intimacy",
+      "sourceHeading": "Fifth: Invocation for going to bathroom and (before) intercourse",
+      "title": "Praise after leaving the bathroom",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَذَاقَنِي لَذَّتَهُ، وَأَبْقَى فِيَّ قُوَّتَهُ، وَدَفَعَ عَنِّي أَذَاهُ",
+      "transliteration": "Al-ḥamdulillāhil ladhi adhāqanī ladhdhatahu wa abqa fiyya quwwatahu wadafaʻa ʻannī adhāhu",
+      "translation": "All praise is to Allāh Who has given me to taste its enjoyment, let it remain in me its strength and get rid of its harm from me.",
+      "practice": "The book presents this as an invocation upon leaving the toilet; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        92,
+        93
+      ],
+      "sourceFootnotes": [
+        20
+      ],
+      "notes": [
+        "This is a transcription of the supplied book; the footnote bibliography was not supplied."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3498.HEIC",
+        "IMG_3499.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-bathroom-forgiveness",
+      "order": 19,
+      "section": "Bathroom and intimacy",
+      "sourceHeading": "Fifth: Invocation for going to bathroom and (before) intercourse",
+      "title": "Forgiveness after leaving the bathroom",
+      "arabic": "غُفْرَانَكَ",
+      "transliteration": "GhufrānaK",
+      "translation": "(O Allāh!) I ask for Your forgiveness.",
+      "practice": "The book presents this as an invocation upon leaving the toilet; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        93
+      ],
+      "sourceFootnotes": [
+        21
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3499.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-before-intimacy",
+      "order": 20,
+      "section": "Bathroom and intimacy",
+      "sourceHeading": "Fifth: Invocation for going to bathroom and (before) intercourse",
+      "title": "Before intimacy",
+      "arabic": "بِسْمِ اللَّهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا",
+      "transliteration": "Bismillāhi, Allāhumma jannibnash shaiṭāna wajannibish shaiṭāna mā razaqtanā",
+      "translation": "In the Name of Allāh, O Allāh! Protect us from shaiṭān and prevent shaiṭān from that which You bestow on us (i.e. our children).",
+      "practice": "The book places this before sexual intercourse; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        93,
+        94
+      ],
+      "sourceFootnotes": [
+        22
+      ],
+      "notes": [
+        "The following narrative promise in the book is context, not part of the Arabic invocation."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3499.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-during-ablution",
+      "order": 21,
+      "section": "Ablution and adhan",
+      "sourceHeading": "Sixth: Invocation for Wudū’, Ghusl and on (hearing of) ’Adhān",
+      "title": "During ablution",
+      "arabic": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي، وَوَسِّعْ لِي فِي دَارِي وَبَارِكْ لِي فِي رِزْقِي",
+      "transliteration": "Allāhumma ghfir lī dhanbī, wa wassiʻ lī fī dārī wa bārik lī fī rizqī",
+      "translation": "O Allāh! Forgive my sin, expand my abode, and bless for me my livelihood.",
+      "practice": "The book describes this being said while performing ablution; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        94,
+        95
+      ],
+      "sourceFootnotes": [
+        24
+      ],
+      "notes": [
+        "The section-heading marker 23 is a footnote reference, not a repetition count."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3499.HEIC",
+        "IMG_3500.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-ablution",
+      "order": 22,
+      "section": "Ablution and adhan",
+      "sourceHeading": "Sixth: Invocation for Wudū’, Ghusl and on (hearing of) ’Adhān",
+      "title": "After ablution",
+      "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ، وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+      "transliteration": "Ash-hadu an lā ilāha illallāhu waḥdahu lāsharīka lahu wa ash-hadu anna Muḥammadan ʻabduhu warasūluhu. Allāhumma jʻalnī minat tawwabīn wajʻalnī minal mutaṭahhirīn.",
+      "translation": "I bear witness that none has the right to be worshipped but Allāh Alone. He has no partner and I bear witness that Muḥammad is His servant and Messenger. O Allāh make me among those who repent to You and make me among those who are purified.",
+      "practice": "The book places this after performing ablution; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        95,
+        96
+      ],
+      "sourceFootnotes": [
+        25,
+        26
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3500.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-adhan",
+      "order": 23,
+      "section": "Ablution and adhan",
+      "sourceHeading": "Sixth: Invocation for Wudū’, Ghusl and on (hearing of) ’Adhān",
+      "title": "On hearing the adhan",
+      "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا الَّذِي وَعَدْتَهُ",
+      "transliteration": "Allāhumma Rabba hādhihid daʻwatit tāmmati, was Ṣalātil qā’imati āti Muḥammadal wasīlata walfaḍīlata wabʻathhu muqāma maḥmūdal ladhī waʻadtah.",
+      "translation": "O Allāh! Lord of this perfect call and this Ṣalāh to be performed; grant Muḥammad Al-Wasīlah and Al-Faḍlah, and resurrect him to Maqāmal Maḥmūda You have promised him.",
+      "practice": "The book presents this for hearing the adhan; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        96,
+        97
+      ],
+      "sourceFootnotes": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "notes": [
+        "The printed Arabic omits محمودا after مقاما, although the transliteration and English include it. The source Arabic is retained without silently supplying the missing word.",
+        "Al-Wasīlah, Al-Faḍlah and Maqāmal Maḥmūda carry explanatory footnote markers 27, 28 and 29; the actual footnote text was not supplied."
+      ],
+      "readingNote": "The source Arabic omits a word included in its transliteration and English. See the source notes below.",
+      "sourcePhotoFiles": [
+        "IMG_3500.HEIC",
+        "IMG_3501.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-before-food",
+      "order": 24,
+      "section": "Food",
+      "sourceHeading": "Seventh: Invocation for Food",
+      "title": "Before food",
+      "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا، وَقِنَا عَذَابَ النَّارِ بِسْمِ اللَّهِ",
+      "transliteration": "Allāhumma bārik lanā fīmā razaqtanā, waqinā ʻadhāban nāri bismillāH",
+      "translation": "O Allāh! Bless for us in that which You have provided for us and rescue us from the torture of Hell-fire. In the Name of Allāh (i.e I commence this eating).",
+      "practice": "The book places this when food is served; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        97
+      ],
+      "sourceFootnotes": [
+        31
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3501.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-forgotten-basmalah",
+      "order": 25,
+      "section": "Food",
+      "sourceHeading": "Seventh: Invocation for Food",
+      "title": "When remembering during a meal",
+      "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+      "transliteration": "Bismillāhi awwalahu wa akhirah",
+      "translation": "In the Name of Allāh, in the beginning and in the end.",
+      "practice": "The book says to mention Allah's name before eating and, if forgotten at the beginning, to say this upon remembering; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        97,
+        98
+      ],
+      "sourceFootnotes": [
+        32,
+        33
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3501.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-food-praise",
+      "order": 26,
+      "section": "Food",
+      "sourceHeading": "Seventh: Invocation for Food",
+      "title": "Praise after food and drink",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+      "transliteration": "Alḥamdulillāhil ladhī aṭʻamanā wa saqāna wajaʻalana Muslimīn.",
+      "translation": "All praise is to Allāh Who has fed us, given us drink and made us Muslims.",
+      "practice": "The book places this after finishing food; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        98
+      ],
+      "sourceFootnotes": [
+        34
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3501.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-food-gratitude",
+      "order": 27,
+      "section": "Food",
+      "sourceHeading": "Seventh: Invocation for Food",
+      "title": "Gratitude after eating",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ وَلَا قُوَّةٍ",
+      "transliteration": "Alḥamdulillāhil ladhī aṭʻamanī hādha warazaqanīhi min ghairi ḥawlin walā quwwatin.",
+      "translation": "All praise is to Allāh Who has given me this food and provided for me with it though I was unable to do it and powerless",
+      "practice": "The book places this after eating; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        98,
+        99
+      ],
+      "sourceFootnotes": [
+        35
+      ],
+      "notes": [
+        "The Arabic is split from its transliteration and English by the page boundary. The following promise about forgiveness is narrative context, not part of the invocation."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3501.HEIC",
+        "IMG_3502.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-meal-host",
+      "order": 28,
+      "section": "Food",
+      "sourceHeading": "Seventh: Invocation for Food",
+      "title": "For the host after a meal",
+      "arabic": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَتْ طَعَامَكُمُ الْأَبْرَارُ وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ",
+      "transliteration": "Afṭara ʻindakumuṣ Ṣā’imūna, wa akala ṭaʻāmukumul abrāru waṣallat ʻalaikumul malāikah.",
+      "translation": "Those who are breaking have broken their fast with you; the righteous have eaten your food and the angels recite their prayers for you.",
+      "practice": "The book describes this being said after eating bread and oil at a host's home; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        99
+      ],
+      "sourceFootnotes": [
+        36,
+        37
+      ],
+      "notes": [
+        "The photograph prints وَأَكَلَتْ while the transliteration has wa akala. The printed Arabic wording is retained."
+      ],
+      "readingNote": "The source Arabic and transliteration differ in one verb form. See the source notes below.",
+      "sourcePhotoFiles": [
+        "IMG_3502.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-night-prayer",
+      "order": 29,
+      "section": "Night prayer and dreams",
+      "sourceHeading": "Eighth: Invocation for Tahajjud, ’Araq and Ru’yā",
+      "title": "On waking for night prayer",
+      "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَاوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ لَكَ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَاوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَمُحَمَّدٌ حَقٌّ وَالْجَنَّةُ حَقٌّ وَالنَّارُ حَقٌّ، اللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، لَا إِلَهَ إِلَّا أَنْتَ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Allāhumma laKal ḥamdu Anta Qayyumus samāwati wal arḍi wa man fīhinna wa laKal ḥamdu laKa Mulkus samāwati wal arḍi wa man fīhinna walaKal ḥamdu Anta nūrus samāwati wal arḍi wa man fīhinna walaKal ḥamdu Antal Ḥaqqu, wa waʻduKal Ḥaqqu, wa liqā’uKa ḥaqqu, wannabiyyuKa ḥaqqu, wa Muḥammadun, ṣalla llāhu ʻalaihi was sallama, ḥaqqu was sāʻatu ḥaqqu. Allāhumma laKa aslamtu, wa biKa amantu, wa ʻalaiKa tawwakaltu, wa ilaiKa anabtu wabika khaṣamtu, wa ilaiKa ḥakamtu, faghrli mā qaddamtu wa mā akkhartu wa mā Anta aʻlamu bihī minnī, Antal Muqaddimu wa Antal Mu’akhkhir walā ḥawla wa lā quwwata illā billāH",
+      "translation": "O Allāh! Praise is to You. You are the Sustainer of the heavens and the earth and all that dwell therein. Praise is to You, Yours is the sovereignty of the heavens and the earth and all that dwell therein. Praise is to You, You are the light of the heavens and the earth and all that dwell therein. Praise is to You, You are the Truth. Your promise is true, meeting You is true, the paradise is true, the Hell is true, the Prophets are true, Muḥammad is true, and the Hour (of Judgement) is true. O Allāh! Unto You I surrender, in You I believe, upon You I rely, unto You I turn, for Your sake I dispute and unto You I seek, so forgive me that which I have put forth and that which have held back, that which conceal and which reveal, and all that You know better than me. You are the Supreme Advancer, the Supreme Retarder. There is none worthy of worship except You. And there is neither might nor power except with Allāh.",
+      "practice": "The book places this on waking at night for midnight prayer; it specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        100,
+        101,
+        102
+      ],
+      "sourceFootnotes": [
+        39
+      ],
+      "notes": [
+        "The printed heading carries footnote marker 38.",
+        "The book's Arabic, transliteration and English are not fully aligned: the Arabic includes وقولك حق, والجنة حق والنار حق, and وما أسررت وما أعلنت which are omitted from the transliteration; the transliteration and English include the Hour, absent from the printed Arabic. Source fields are retained separately.",
+        "The printed Arabic uses قيّم while the transliteration says Qayyumus. No canonical variant is silently substituted.",
+        "English grammar and the source's transliteration spellings are retained."
+      ],
+      "readingNote": "The source Arabic, transliteration and English differ in several clauses. See the source notes below before using the transliteration.",
+      "sourcePhotoFiles": [
+        "IMG_3502.HEIC",
+        "IMG_3503.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-dream-guidance",
+      "order": 30,
+      "section": "Night prayer and dreams",
+      "sourceHeading": "Eighth: Invocation for Tahajjud, ’Araq and Ru’yā",
+      "title": "After a pleasing or troubling dream",
+      "arabic": null,
+      "transliteration": null,
+      "translation": null,
+      "practice": "The book advises praising Allah after a pleasing dream and speaking of it. After a troubling dream, it advises seeking refuge with Allah from its evil and not recounting it to others. No fixed spoken formula is printed in this passage.",
+      "repetitions": null,
+      "sourcePages": [
+        103
+      ],
+      "sourceFootnotes": [
+        40
+      ],
+      "notes": [
+        "This is a summary of the book’s guidance, rather than a newly supplied Arabic recitation."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3504.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-fear-in-sleep",
+      "order": 31,
+      "section": "Night prayer and dreams",
+      "sourceHeading": "Eighth: Invocation for Tahajjud, ’Araq and Ru’yā",
+      "title": "When frightened in sleep",
+      "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونِ",
+      "transliteration": "’A‘ūdhu bikalimatillāhit tāmmāti min ghadabiHi wa‘iqābiHi wa sharri ‘ibādiHi, wa min hamazātish shayāṭīna wa an yaḥḍurūn",
+      "translation": "I seek refuge with Allāh’s complete Words from His wrath and punishment, and from the evil of His slaves, and from the whispers of devils and from its presence",
+      "practice": "The book presents this invocation for someone who becomes frightened in sleep. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        103,
+        104
+      ],
+      "sourceFootnotes": [
+        41
+      ],
+      "notes": [
+        "The printed English says “its presence” although the Arabic refers to the devils’ presence. The source wording is retained."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3504.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-sleeplessness-protection",
+      "order": 32,
+      "section": "Night prayer and dreams",
+      "sourceHeading": "Eighth: Invocation for Tahajjud, ’Araq and Ru’yā",
+      "title": "Seeking protection when unable to sleep",
+      "arabic": "اللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظَلَّتْ وَرَبَّ الْأَرَضِينَ وَمَا أَقَلَّتْ وَرَبَّ الشَّيَاطِينِ وَمَا أَضَلَّتْ كُنْ لِي جَارًا مِنْ شَرِّ خَلْقِكَ أَجْمَعِينَ أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ أَنْ يَطْغَى عَزَّ جَارُكَ وَتَبَارَكَ اسْمُكَ",
+      "transliteration": "Allāhumma Rabbas samāwāt sab‘i wamā aẓallat wa Rabbal arḍīna wa mā aqallat wa Rabbash shayāṭīna wa mā aḍallat kun lī jāran min sharri khalqiKa ajma‘īna an yafruṭa ‘alayya aḥadun minhum aw an yaṭgha ‘azza jāruKa wa tabāraka ismuK.",
+      "translation": "O Allāh! Lord of the seven heavens and those shaded by them. Lord of the earth and those carried them and Lord of the devils and those led astray by them. Be for me a support from the evil of all Your creatures, lest anyone of them abuse or do me wrong. Mighty is Your patronage and blessed be Your Name.",
+      "practice": "The book relates this invocation in its discussion of sleeplessness. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        104,
+        105
+      ],
+      "sourceFootnotes": [
+        42
+      ],
+      "notes": [
+        "The English grammar follows the printed source. The book’s reported outcome is not a medical claim by Rosery."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3504.HEIC",
+        "IMG_3505.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-quiet-night",
+      "order": 33,
+      "section": "Night prayer and dreams",
+      "sourceHeading": "Eighth: Invocation for Tahajjud, ’Araq and Ru’yā",
+      "title": "Asking for a quiet night",
+      "arabic": "اللَّهُمَّ غَارَتِ النُّجُومُ وَهَدَأَتِ الْعُيُونُ، وَأَنْتَ حَيٌّ قَيُّومٌ لَا تَأْخُذُكَ سِنَةٌ وَلَا نَوْمٌ، يَا حَيُّ يَا قَيُّومُ، اهْدِ لَيْلِي، وَأَنِمْ عَيْنِي",
+      "transliteration": "Allāhumma ghāratin nujūmu, wa hada’atil ‘uyūnu wa Anta Ḥayyu Qayyūmu, lā ta’khudhuKa sinatun wa lā nawmun, yā Ḥayyu yā Qayyūmu, ihdi lailī wa anim ‘ainī.",
+      "translation": "O Allāh! The stars have disappeared and the eyes now became calm. And You the Ever Living, the Eternal neither slumber nor does sleep overtake You. O You the Ever Living, the Eternal. Quieten my night and cause my eyes to sleep.",
+      "practice": "The book relates this invocation in its discussion of sleeplessness. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        105,
+        106
+      ],
+      "sourceFootnotes": [
+        43,
+        44
+      ],
+      "notes": [
+        "The photograph prints اهْدِ لَيْلِي and the transliteration “ihdi lailī”, while the English says “Quieten my night”. This apparent source mismatch is retained; no replacement Arabic has been silently inserted."
+      ],
+      "readingNote": "The printed Arabic and transliteration differ in meaning from the English “Quieten my night”. See the source notes below.",
+      "sourcePhotoFiles": [
+        "IMG_3505.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-lying-down",
+      "order": 34,
+      "section": "Before sleep",
+      "sourceHeading": "Ninth: Invocation for sleeping",
+      "title": "Lying down in Allah’s name",
+      "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي وَبِكَ أَرْفَعُهُ إِنْ أَمْسَكْتَ نَفْسِي فَاغْفِرْ لَهَا وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+      "transliteration": "BismiKa Rabbī wa ḍa‘tu janbī wa biKa arfa‘uhu ’in amsakTa nafsī faghfir lahā wa in arsalTaha faḥfaẓ-hā bimā taḥfaẓa bihi ‘ibādaKaṣ ṣāliḥīn",
+      "translation": "O my Lord! With Your Name I lied down and with Your help I shall rise. If You take my soul, be merciful to it. And if You release it (remain alive), protect it as You protect Your righteous servants.",
+      "practice": "Before this invocation, the book instructs wiping the bed with the edge of one’s garment three times. The three applies to wiping the bed; no recitation count is specified here.",
+      "repetitions": null,
+      "sourcePages": [
+        106,
+        107
+      ],
+      "sourceFootnotes": [
+        45,
+        46
+      ],
+      "notes": [
+        "The Arabic and transliteration read “forgive it” (فَاغْفِرْ لَهَا / faghfir lahā); the printed translation says “be merciful to it”. Both source forms are retained.",
+        "The printed English “I lied down” is retained."
+      ],
+      "readingNote": "The source Arabic asks “forgive it”; its English says “be merciful to it”.",
+      "sourcePhotoFiles": [
+        "IMG_3505.HEIC",
+        "IMG_3506.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-bedtime-three-surahs",
+      "order": 35,
+      "section": "Before sleep",
+      "sourceHeading": "Ninth: Invocation for sleeping",
+      "title": "The three surahs before sleep",
+      "arabic": null,
+      "transliteration": null,
+      "translation": null,
+      "practice": "The book describes putting the hands together, reciting Surah Al-Ikhlas, Surah Al-Falaq and Surah An-Nas, blowing into the hands, and wiping as much of the body as possible, beginning with the head, face and front of the body. It says the sequence was repeated three times.",
+      "repetitions": null,
+      "sourcePages": [
+        107,
+        108
+      ],
+      "sourceFootnotes": [
+        47,
+        48
+      ],
+      "notes": [
+        "The photographed passage names the three surahs without printing their Arabic text. This entry preserves the guidance without adding text absent from these pages.",
+        "The three repetitions concern the described sequence and are recorded in the guidance rather than as a count for a single recitation."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3506.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-bedtime-forgiveness",
+      "order": 36,
+      "section": "Before sleep",
+      "sourceHeading": "Ninth: Invocation for sleeping",
+      "title": "Seeking forgiveness before sleep",
+      "arabic": "أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ",
+      "transliteration": "Astaghfirullāhal ladhī lā ilāha illā huwa Al-Ḥayyul Qayyūm wa atūbu ilaiH",
+      "translation": "I seek the forgiveness of Allāh Who there is no other God save Him, He is the Ever Living and the Eternal and I repent to Him.",
+      "practice": "The book says to recite this three times when going to bed.",
+      "repetitions": 3,
+      "sourcePages": [
+        108
+      ],
+      "sourceFootnotes": [
+        49,
+        50
+      ],
+      "notes": [
+        "The repetition count is attributed to this book. Its endnotes and the basis for its reported reward are outside the supplied photographs."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3506.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-bedtime-remembrance",
+      "order": 37,
+      "section": "Before sleep",
+      "sourceHeading": "Ninth: Invocation for sleeping",
+      "title": "Remembrance when retiring to bed",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ. سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+      "transliteration": "Lā ilāha illā llāhu waḥdahu lā sharīka lahu lahul Mulku walahul ḥamdu wa Huwa ‘ala kulli shain’in Qadīrun. Lā ḥola wa lā quwwata illā billāhil ‘Aliyyil Aẓīmi. SubḥānAllāh walḥamdu lillāhi walā ilāha illā llāhu wa llāhu Akbār",
+      "translation": "None has the right to be worshipped but Allāh Alone, without any partner. To Him is sovereignty and praise. He is Able of all things. There is neither might nor power except with Allāh, The High and the Mighty. Glory to Allāh, praise is to Allāh, none has the right to be worshipped but Him, and Allāh is the Greatest",
+      "practice": "The book presents this remembrance for retiring to bed. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        108,
+        109,
+        110
+      ],
+      "sourceFootnotes": [
+        51
+      ],
+      "notes": [
+        "The source transliteration prints “ḥola”, “shain’in”, and “Akbār”; these forms are retained as printed."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3506.HEIC",
+        "IMG_3507.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-surrender-before-sleep",
+      "order": 38,
+      "section": "Before sleep",
+      "sourceHeading": "Ninth: Invocation for sleeping",
+      "title": "Entrusting oneself to Allah before sleep",
+      "arabic": "اللَّهُمَّ أَسْلَمْتُ وَجْهِي إِلَيْكَ وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِي إِلَيْكَ رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+      "transliteration": "Allāhumma aslamtu wajhī ilaiKa, wa fawwaḍtu amrī ilaiKa wa alja’tu ẓahrī ilaiKa raghbatan wa rahbatan ilaiKa, lā malja’wal lā manja minKa illā ilaiKa, Amantu bi kitābiKal ladhī anzalTa binabiyyiKal ladhī arsalTa",
+      "translation": "O Allāh! I surrender to You, entrust all my affairs to You and rely on Your blessing, in longing and in dread. There is no refuge and no escape except to You. I believe in Your book (i.e the Qur’ān) which You have revealed and in Your Prophet (Muḥammad, upon him be peace) whom You have sent",
+      "practice": "The book instructs performing ablution as for prayer, lying on the right side, and making this one’s final words before sleeping. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        110,
+        111
+      ],
+      "sourceFootnotes": [
+        52
+      ],
+      "notes": [
+        "The photographed Arabic prints لَا مَلْجَأَ وَلَا مِنْكَ إِلَّا إِلَيْكَ, omitting a word corresponding to “manja” in the printed transliteration. The Arabic has not been silently completed.",
+        "The printed transliteration lacks “wa” before “binabiyyiKa”, although the Arabic prints وَبِنَبِيِّكَ."
+      ],
+      "readingNote": "The source Arabic omits a word included in its transliteration and English. See the source notes below.",
+      "sourcePhotoFiles": [
+        "IMG_3507.HEIC",
+        "IMG_3508.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-prayer-subhanallah",
+      "order": 39,
+      "section": "After prayer and gatherings",
+      "sourceHeading": "Tenth: Ending Ṣalāh and gathering",
+      "title": "SubhanAllah after prayer",
+      "arabic": null,
+      "transliteration": "SubḥānAllāh",
+      "translation": "Glory be to Allāh",
+      "practice": "The book gives SubhanAllah, Alhamdulillah and Allahu Akbar thirty-three times each after each prayer, followed by the hundredth remembrance printed on page 112.",
+      "repetitions": 33,
+      "sourcePages": [
+        111,
+        112
+      ],
+      "sourceFootnotes": [
+        53,
+        54,
+        55
+      ],
+      "notes": [
+        "This short formula is printed inline in Latin transliteration, rather than as Arabic, in the photographed passage."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3508.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-prayer-alhamdulillah",
+      "order": 40,
+      "section": "After prayer and gatherings",
+      "sourceHeading": "Tenth: Ending Ṣalāh and gathering",
+      "title": "Alhamdulillah after prayer",
+      "arabic": null,
+      "transliteration": "Alḥamdulillāh",
+      "translation": "Praise is to Allāh",
+      "practice": "The book gives SubhanAllah, Alhamdulillah and Allahu Akbar thirty-three times each after each prayer, followed by the hundredth remembrance printed on page 112.",
+      "repetitions": 33,
+      "sourcePages": [
+        111,
+        112
+      ],
+      "sourceFootnotes": [
+        55
+      ],
+      "notes": [
+        "This short formula is printed inline in Latin transliteration, rather than as Arabic, in the photographed passage."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3508.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-prayer-allahu-akbar",
+      "order": 41,
+      "section": "After prayer and gatherings",
+      "sourceHeading": "Tenth: Ending Ṣalāh and gathering",
+      "title": "Allahu Akbar after prayer",
+      "arabic": null,
+      "transliteration": "Allāhu Akbar",
+      "translation": "Allāh is the Greatest",
+      "practice": "The book gives SubhanAllah, Alhamdulillah and Allahu Akbar thirty-three times each after each prayer, followed by the hundredth remembrance printed on page 112.",
+      "repetitions": 33,
+      "sourcePages": [
+        111,
+        112
+      ],
+      "sourceFootnotes": [
+        55
+      ],
+      "notes": [
+        "This short formula is printed inline in Latin transliteration, rather than as Arabic, in the photographed passage."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3508.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-after-prayer-hundredth",
+      "order": 42,
+      "section": "After prayer and gatherings",
+      "sourceHeading": "Tenth: Ending Ṣalāh and gathering",
+      "title": "The hundredth remembrance after prayer",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "Lā ilāha illallāhu waḥdahu lā sharīka laHu, laHul Mulku walaHul ḥamdu waHuwa ‘alā kulli shai’in Qadīr",
+      "translation": "None has the right to be worshipped but Allāh Alone without any associate, to Him belong sovereignty and to Him belongs praise and He is Able of all things",
+      "practice": "The book gives this once to complete one hundred after SubhanAllah, Alhamdulillah and Allahu Akbar have each been recited thirty-three times after prayer.",
+      "repetitions": 1,
+      "sourcePages": [
+        111,
+        112
+      ],
+      "sourceFootnotes": [
+        55
+      ],
+      "notes": [
+        "The single recitation follows the book’s explicit instruction to complete one hundred after 33 + 33 + 33; it is not a default assigned to an unspecified count."
+      ],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3508.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-help-in-worship",
+      "order": 43,
+      "section": "After prayer and gatherings",
+      "sourceHeading": "Tenth: Ending Ṣalāh and gathering",
+      "title": "Help in remembrance, gratitude and worship",
+      "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+      "transliteration": "Allāhumma a‘innī ‘alā dhikriKa, wa shukriKa wa ḥusni ‘ibādatiK.",
+      "translation": "O Allāh! Help me remember You, thank You and worship You well.",
+      "practice": "The book counsels saying this after each prayer. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        112,
+        113
+      ],
+      "sourceFootnotes": [
+        56
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3508.HEIC",
+        "IMG_3509.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-gathering-forgiveness",
+      "order": 44,
+      "section": "After prayer and gatherings",
+      "sourceHeading": "Tenth: Ending Ṣalāh and gathering",
+      "title": "Seeking forgiveness at the end of a gathering",
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْهِ",
+      "transliteration": "SubḥānaKa Allāhumma wa biḥamdiKa, Ash-hadu an lā ilāha illā Anta astaghfiruKa wa ’atūbu ilaiH",
+      "translation": "Glory be to You! O Allāh! And praise is to You! I bear witness that there is no deity worthy of worship but You. I ask Your forgiveness of Allāh and I repent to You.",
+      "practice": "The book presents this for the end of a talk or gathering, when intending to leave. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        113,
+        114
+      ],
+      "sourceFootnotes": [
+        57
+      ],
+      "notes": [
+        "The photographed Arabic ends وَأَتُوبُ إِلَيْهِ and the transliteration ends “ilaiH” (to Him), while the English says “to You”. These source differences are retained.",
+        "The phrase “I ask Your forgiveness of Allāh” follows the printed English and is not a newly authored translation."
+      ],
+      "readingNote": "The source Arabic and transliteration end “to Him”; its English says “to You”.",
+      "sourcePhotoFiles": [
+        "IMG_3509.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-gathering-praise",
+      "order": 45,
+      "section": "After prayer and gatherings",
+      "sourceHeading": "Tenth: Ending Ṣalāh and gathering",
+      "title": "Praise when leaving a gathering",
+      "arabic": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ وَسَلَامٌ عَلَى الْمُرْسَلِينَ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "transliteration": "Subḥāna Rabbika Rabbil ‘izzati ‘ammā yaṣifūna was salāmun ‘alalMursalīna wal ḥamdu lillāhi Rabbil ‘Ālamīn",
+      "translation": "Glorified be Your Lord, the Lord of Honour and Power (He is free) from what they attribute unto Him! And peace be on the Messengers! And all the praises and thanks be to Allāh, Lord of the worlds!",
+      "practice": "The book presents this for the end of a sitting or when rising to leave. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        114
+      ],
+      "sourceFootnotes": [
+        58
+      ],
+      "notes": [],
+      "readingNote": null,
+      "sourcePhotoFiles": [
+        "IMG_3509.HEIC"
+      ],
+      "sourcePart": "Daily routines · pages 81–114",
+      "repetitionGuidance": null
+    },
+    {
+      "id": "daily-istikhara",
+      "order": 46,
+      "section": "Seeking guidance",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "First: Invocation for divine Istikhārah",
+      "title": "Seeking guidance in a decision",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ. اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي أَوْ قَالَ عَاجِلِ أَمْرِي وَآجِلِهِ فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي، أَوْ قَالَ فِي عَاجِلِ أَمْرِي وَآجِلِهِ فَاصْرِفْهُ عَنِّي، وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِي الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ",
+      "transliteration": "Allāhumma innī astakhiruKa bi‘ilmiKa, wa astaqdiruKa biqudratiKa wa as’aluKa min faḍlikal ‘aẓīmi fa’innaKa Taqdiru wa lā ’aqdiru, wa Ta‘lam wa lā a‘lam, wa Anta ‘Allamul ghuyūbi. Allāhumma in Kunta Ta‘lamu anna hādhal amra khairu lī fī dīni wa ma‘āshī wa‘āqibati amrī (or say) ‘ājil amrī wa ājilihi faqdirhu lī wa yassirhu lī thumma bārik lī fīhi, wa in Kunta ta‘lam anna hādhal amra sharru lī fī dīni wa ma‘āshi wa ‘āqibati amrī, (or say) ‘ājili amrī wa ’ājilihi, faṣrifhu ‘annī wa aṣrifnī anhu, waqdur līl khaira ḥaithu kāna thumma rḍinī bihi.",
+      "translation": "O Allāh! I ask Your choice by Your knowledge and Your Decree by Your ability, and I ask of You from Your great generosity. Surely, You are Able and I am not. And You know, I know not. You are the Knower of unknown. O Allāh! If in Your knowledge, this matter (then mention it here e.g traveling, marriage e.t.c.) is good for me, in my religion, my livelihood and my affairs, in my life and life to come, then ordain it for me and make it easy for me, then bless it for me. And if in Your knowledge, this matter (then mention it here) is bad for me, in my religion, my livelihood and my affairs, in my life and life to come, then turn it away from me and turn me away from it. And decree for me what is good - wherever it may be - and then make me satisfy with it.",
+      "practice": "The book describes two rak‘ahs other than the obligatory prayer, followed by this invocation when considering a matter. Its English instructs naming the matter at “this matter”. No repetition count is specified.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        116,
+        117,
+        118
+      ],
+      "sourceFootnotes": [
+        1,
+        2
+      ],
+      "readingNote": null,
+      "notes": [
+        "The printed Arabic includes أو قال (“or he said”), recording alternative wording in the narration; the transliteration marks these alternatives as “or say”. The source wording is retained."
+      ],
+      "sourcePhotoFiles": [
+        "IMG_3510.HEIC",
+        "IMG_3511.HEIC"
+      ]
+    },
+    {
+      "id": "daily-prayer-of-need",
+      "order": 47,
+      "section": "Prayer for a need",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Second: Invocation for Ṣalātul Ḥājjah",
+      "title": "Supplication for a need",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْحَلِيمُ الْكَرِيمُ، سُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ الْعَظِيمِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ. أَسْأَلُكَ مُوجِبَاتِ رَحْمَتِكَ وَعَزَائِمَ مَغْفِرَتِكَ وَالْعِصْمَةَ مِنْ كُلِّ ذَنْبٍ، وَالْغَنِيمَةَ مِنْ كُلِّ بِرٍّ وَالسَّلَامَةَ مِنْ كُلِّ إِثْمٍ، لَا تَدَعْ لِي ذَنْبًا إِلَّا غَفَرْتَهُ، وَلَا هَمًّا إِلَّا فَرَّجْتَهُ وَلَا حَاجَةً هِيَ لَكَ رِضًا إِلَّا قَضَيْتَهَا يَا أَرْحَمَ الرَّاحِمِينَ",
+      "transliteration": "Lā ilāha illā llāhul Ḥalīmu Karīmu, subḥānAllāh Rabbul ‘arshil ‘aẓīmi Alḥamdulillāhi Rabbil ‘ālamīna, as’aluKa mūjibāti raḥmatiKa wa ‘azā’ima maghfiratiKa wal ‘iṣmata min kulli dhanbin, walghanīmata min kulli birri was salāmata min kulli ithmin, lā tada‘ lī dhanban illā ghafartahu, wa lā hamman illā farrajtahu walā ḥājatan hiya laKa riḍan illā qaḍaitahā yā Arḥamar Rāḥimīn",
+      "translation": "There is no god but Allāh, The Forbearing, The Bountiful. Glory to Allāh, the Lord of the Mighty Throne. Praise be to Allāh, the Lord of the Worlds. O Allāh! I seek all causes of the grant of Your mercy and the means of (ascertaining) Your forgiveness, the complete safety from all sins, the full share in all virtuous deeds and the freedom from all sins. O Allāh! Leave no sin for me without Your forgiveness, nor any stress without being fulfilled by You, O the Finest of the Merciful.",
+      "practice": "The book describes performing ablution and two rak‘ahs, extolling Allah and praying for the Prophet, then reciting this and asking for one’s need in this world and the next. No repetition count is specified.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        118,
+        119,
+        120
+      ],
+      "sourceFootnotes": [
+        3,
+        4
+      ],
+      "readingNote": "The source English compresses the final requests differently from the Arabic and transliteration. See the source notes below.",
+      "notes": [
+        "The Arabic and transliteration separately ask for relief from worry and for a pleasing need to be fulfilled. The English compresses these into “nor any stress without being fulfilled”. Its wording is retained."
+      ],
+      "sourcePhotoFiles": [
+        "IMG_3511.HEIC",
+        "IMG_3512.HEIC"
+      ]
+    },
+    {
+      "id": "daily-farewell-to-traveler",
+      "order": 48,
+      "section": "Travel",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Third: Invocations for travelling",
+      "title": "Entrusting a traveler to Allah",
+      "arabic": "أَسْتَوْدِعُ اللَّهَ دِينَكَ، وَأَمَانَتَكَ وَخَوَاتِيمَ عَمَلِكَ، وَأَقْرَأُ عَلَيْكَ السَّلَامَ",
+      "transliteration": "Astawdi‘ullāh dīnaka wa ’amānataka wa khawātīma ‘amalika, wa ’aqra’u ‘alaikas salam",
+      "translation": "I place your religion, your trust and the last of your deeds in Allāh’s care, and I say salām (peace) upon you.",
+      "practice": "The book gives these words for the person staying behind to say to a traveler.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        120,
+        121
+      ],
+      "sourceFootnotes": [
+        5,
+        6,
+        7
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3512.HEIC",
+        "IMG_3513.HEIC"
+      ]
+    },
+    {
+      "id": "daily-travel-advice-and-ease",
+      "order": 49,
+      "section": "Travel",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Third: Invocations for travelling",
+      "title": "Advice and ease for a traveler",
+      "arabic": "عَلَيْكَ بِتَقْوَى اللَّهِ، وَالتَّكْبِيرِ عَلَى كُلِّ شَرَفٍ اللَّهُمَّ اطْوِ لَهُ الْبُعْدَ، وَهَوِّنْ عَلَيْهِ السَّفَرَ",
+      "transliteration": "Alaika bitaqwAllāhi watakbīri ‘ala kulli sharafin. Allāhumma ’aṭwilhul bu‘da, wa hawwin ‘alaihis safar",
+      "translation": "Fear Allāh, and utter Allāhu Akbar (Allāh is Great) whenever you pass by a high place. O Allāh! Make the distance short to him and ease his journey for him.",
+      "practice": "Following the farewell, the book includes this advice and supplication for the traveler.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        121
+      ],
+      "sourceFootnotes": [
+        8
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3513.HEIC"
+      ]
+    },
+    {
+      "id": "daily-traveler-piety-and-goodness",
+      "order": 50,
+      "section": "Travel",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Third: Invocations for travelling",
+      "title": "Piety, forgiveness and good on a journey",
+      "arabic": "زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَ ذَنْبَكَ، وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+      "transliteration": "ZawwadakAllāhut taqwa wa ghafara dhanbaka, wa yassara lakal khaira ḥaithumā kunta",
+      "translation": "May Allāh endow you with piety, forgive your sins and facilitate all good for you wherever you may be.",
+      "practice": "The book gives this as a further supplication for the traveler.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        121,
+        122
+      ],
+      "sourceFootnotes": [
+        9
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3513.HEIC"
+      ]
+    },
+    {
+      "id": "daily-traveler-farewell",
+      "order": 51,
+      "section": "Travel",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Third: Invocations for travelling",
+      "title": "The traveler’s farewell",
+      "arabic": "أَسْتَوْدِعُكَ اللَّهَ الَّذِي لَا تَضِيعُ وَدَائِعُهُ",
+      "transliteration": "Astawdi‘ukAllāhal ladhī lā taḍī‘u wadāi‘u ‘h",
+      "translation": "I entrust you to Allāh, Whose trust is never lost.",
+      "practice": "The book gives these words for the traveler to say to the person staying behind.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        122
+      ],
+      "sourceFootnotes": [
+        10
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3513.HEIC"
+      ]
+    },
+    {
+      "id": "daily-journey-supplication",
+      "order": 52,
+      "section": "Travel",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Third: Invocations for travelling",
+      "title": "Goodness and protection on a journey",
+      "arabic": "اللَّهُمَّ بِكَ أَصُولُ وَبِكَ أَجُولُ، وَبِكَ أَسِيرُ اللَّهُمَّ إِنِّي أَسْأَلُكَ فِي سَفَرِي هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الْأَهْلِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ وَالْوَلَدِ",
+      "transliteration": "Allāhumma biKa aṣūlu wa biKa ajūlu wa biKa asīru. Allāhumma innī as’aluKa fī safarī hādhal birra wattaqwa wa minal ‘amali mā tarḍa. Allāhumma hawwin ‘alainā safaranā hādhā waṭwi ‘anna bu‘dahu. Allāhumma Antaṣ Ṣāḥibu fis safari wal khalīfatu fil ahli. Allāhumma innī ’a‘ūdhubiKa min wa‘thā’is safari wa kābatil manẓari wa sū’il munqalabi fil māli wal ahli wal walad",
+      "translation": "O Allāh! With You I struggle, move and walk. O Allāh! I ask You in this journey of mine, virtue, piety, and deeds which are pleased to You. O Allāh! Make our journey easy and shorten its distance for us. O Allāh! You are the companion in the journey and the Guardian of the family. O Allāh! I seek refuge with You from the difficulties of this journey, the depression of sight, and evil return to my wealth, family and children.",
+      "practice": "The book gives this supplication for the traveler, followed by an additional formula on returning.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        122,
+        123,
+        124
+      ],
+      "sourceFootnotes": [
+        11
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3513.HEIC",
+        "IMG_3514.HEIC"
+      ]
+    },
+    {
+      "id": "daily-returning-from-journey",
+      "order": 53,
+      "section": "Travel",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Third: Invocations for travelling",
+      "title": "On returning from a journey",
+      "arabic": "آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ",
+      "transliteration": "Āyibūna tā’ibūna ‘ābidūna liRabbinā ḥāmidūn",
+      "translation": "We return repentant to our Lord, worshipping and praising our Lord.",
+      "practice": "The book says to repeat the preceding journey supplication on returning, adding these words.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        124
+      ],
+      "sourceFootnotes": [
+        11
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3514.HEIC"
+      ]
+    },
+    {
+      "id": "daily-boarding-vehicle",
+      "order": 54,
+      "section": "Travel",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Third: Invocations for travelling",
+      "title": "When boarding a mount or vehicle",
+      "arabic": "بِسْمِ اللَّهِ",
+      "transliteration": "BismillāH",
+      "translation": "In the Name of Allāh",
+      "practice": "The book gives this when starting to ride a mount or vehicle.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        124
+      ],
+      "sourceFootnotes": [
+        12
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3514.HEIC"
+      ]
+    },
+    {
+      "id": "daily-settled-on-vehicle",
+      "order": 55,
+      "section": "Travel",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Third: Invocations for travelling",
+      "title": "When settled on the ride",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+      "transliteration": "Alḥamdulillāhil ladhī sakhkhara lanā hādhā wamā kunnā lahu muqrinīna wa innā ilā Rabbinā lamunqalibūn",
+      "translation": "Praise is to Allāh who has subjected this to us though we could never have had it by our efforts. And unto our Lord surely we are returning.",
+      "practice": "The book gives this after settling on the ride with the intention of setting out on a trip.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        125
+      ],
+      "sourceFootnotes": [
+        13
+      ],
+      "readingNote": null,
+      "notes": [
+        "The source begins الْحَمْدُ لِلَّهِ الَّذِي. This is retained as the book’s invocation rather than silently replaced by the wording of a Qur’anic passage."
+      ],
+      "sourcePhotoFiles": [
+        "IMG_3515.HEIC"
+      ]
+    },
+    {
+      "id": "daily-rainfall",
+      "order": 56,
+      "section": "Weather and the new crescent",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Fourth: Invocation for universal phenomena",
+      "title": "When rain falls",
+      "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+      "transliteration": "Allāhumma sayyiban nāfi‘an",
+      "translation": "O Allāh! Make it a beneficial down pour.",
+      "practice": "The book gives this on seeing rain, twice or three times. It offers two possible counts rather than choosing a single fixed count.",
+      "repetitions": null,
+      "repetitionGuidance": "2 or 3 times in source",
+      "sourcePages": [
+        125,
+        126
+      ],
+      "sourceFootnotes": [
+        14,
+        15
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3515.HEIC"
+      ]
+    },
+    {
+      "id": "daily-heavy-rain",
+      "order": 57,
+      "section": "Weather and the new crescent",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Fourth: Invocation for universal phenomena",
+      "title": "When rain becomes heavy",
+      "arabic": "اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا اللَّهُمَّ عَلَى الْآكَامِ، وَالْآجَامِ، وَالظِّرَابِ وَالْأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
+      "transliteration": "Allāhumma ḥawālainā wa lā ‘alainā Allāhumma ‘alal ākāmi wal ājāmi waẓ ẓirābi wal adwiyati wa manābitish shajar",
+      "translation": "O Allāh! Let it pass us and not on us. O Allāh! Let it fall on jungles, hills, small mountains, valleys, and birthplace of plants.",
+      "practice": "The book gives this when rain becomes much or its harm is feared.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        126
+      ],
+      "sourceFootnotes": [
+        16
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3515.HEIC"
+      ]
+    },
+    {
+      "id": "daily-hearing-thunder",
+      "order": 58,
+      "section": "Weather and the new crescent",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Fourth: Invocation for universal phenomena",
+      "title": "On hearing thunder",
+      "arabic": "اللَّهُمَّ لَا تَقْتُلْنَا وَلَا تُهْلِكْنَا بِعَذَابِكَ وَعَافِنَا قَبْلَ ذَلِكَ",
+      "transliteration": "Allāhumma lā taqtulnā wa lā tuhliknā bi‘ādhābika wa ‘āfinā qabla dhālik",
+      "translation": "O Allāh! Do not kill us nor destroy us with Your chastisement but relieve us before afflicting us (with it).",
+      "practice": "The book places this on hearing thunder and thunderbolt.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        126,
+        127
+      ],
+      "sourceFootnotes": [
+        17
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3515.HEIC",
+        "IMG_3516.HEIC"
+      ]
+    },
+    {
+      "id": "daily-new-crescent",
+      "order": 59,
+      "section": "Weather and the new crescent",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Fourth: Invocation for universal phenomena",
+      "title": "On sighting the new crescent",
+      "arabic": "اللَّهُ أَكْبَرُ، اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالْيُمْنِ وَالْإِيمَانِ، وَالسَّلَامَةِ وَالْإِسْلَامِ، وَالتَّوْفِيقِ لِمَا تُحِبُّ وَتَرْضَى، رَبِّي وَرَبُّكَ اللَّهُ هِلَالُ خَيْرٍ وَرُشْدٍ",
+      "transliteration": "Allāhu Akbaru, Allāhumma ahillāhu ‘alainā bilyumni wal ’īmāni, was salāmati wal islāmi, wat tawfīqi limā tuḥibbu watarḍa, Rabbī waRabbukAllāhu. Hilālun khairin warushdin",
+      "translation": "Allāh is Great! O Allāh! Let the new moon appear to us (while we are) enjoying blessing and faith, health and Islām (submission unto Allāh wholeheartedly) and guidance to the pleasure of Allāh. My Lord and Your Lord is Allāh (O Allāh!) Let it be a new moon presaging goodness and guidance.",
+      "practice": "The book gives this on sighting a new crescent. It specifies no count for this first formula, then gives the following monthly supplication three times.",
+      "repetitions": null,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        127,
+        128
+      ],
+      "sourceFootnotes": [
+        18,
+        19
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3516.HEIC"
+      ]
+    },
+    {
+      "id": "daily-new-month-goodness",
+      "order": 60,
+      "section": "Weather and the new crescent",
+      "sourcePart": "Section Four · Various situations",
+      "sourceHeading": "Fourth: Invocation for universal phenomena",
+      "title": "Goodness in the new month",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ هَذَا الشَّهْرِ وَخَيْرِ الْقَدَرِ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ",
+      "transliteration": "Allāhumma innī ’as’aluKa min khairi hādhāsh shahri wa khairil qadari wa ’a‘ūdhu biKa min sharrih.",
+      "translation": "O Allāh! I ask You of the good of this month and good destiny and I seek refuge with You from its evil (i.e therein)",
+      "practice": "After the new-crescent invocation, the book explicitly says to recite this formula three times.",
+      "repetitions": 3,
+      "repetitionGuidance": null,
+      "sourcePages": [
+        128
+      ],
+      "sourceFootnotes": [
+        19
+      ],
+      "readingNote": null,
+      "notes": [],
+      "sourcePhotoFiles": [
+        "IMG_3516.HEIC"
+      ]
+    },
+    {
+      "id": "daily-new-couple",
+      "order": 61,
+      "section": "Wedding and children",
+      "sourceHeading": "Fifth: Invocation for wedding and children",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Blessing for a new couple",
+      "arabic": "بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+      "transliteration": "BārakAllāhu laka wa bāraka ʻalaika wa jamaʻa bainakumā fī khairin.",
+      "translation": "May Allāh bless you, shower His blessing on you and join you both in goodness.",
+      "practice": "The book presents this as an invocation for a newly married couple. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        129
+      ],
+      "sourceFootnotes": [
+        20,
+        21
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3517.HEIC"
+      ]
+    },
+    {
+      "id": "daily-new-baby-guidance",
+      "order": 62,
+      "section": "Wedding and children",
+      "sourceHeading": "Fifth: Invocation for wedding and children",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Adhan for a newborn",
+      "arabic": null,
+      "transliteration": null,
+      "translation": null,
+      "practice": "The book describes making the adhan in a newborn’s ear at the time of birth. It does not print the words of the adhan here or specify a repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        129
+      ],
+      "sourceFootnotes": [
+        22,
+        23
+      ],
+      "notes": [
+        "This entry summarizes the photographed guidance without supplying a recitation absent from this passage."
+      ],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3517.HEIC"
+      ]
+    },
+    {
+      "id": "daily-child-protection",
+      "order": 63,
+      "section": "Wedding and children",
+      "sourceHeading": "Fifth: Invocation for wedding and children",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Protection for a child",
+      "arabic": "أُعِيذُكَ بِكَلِمَاتِ اللَّهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+      "transliteration": "’Uʻīdhuka bikalimātillāhit tāmmati min kulli shaiṭāni wa ḥāmmatin wa min kulli ʻainin lāmmah.",
+      "translation": "I seek refuge with complete words of Allāh from every devil and any venomous creeper (i.e creature), and from every envious eye",
+      "practice": "The book places this under seeking protection for children. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        129,
+        130
+      ],
+      "sourceFootnotes": [
+        24
+      ],
+      "notes": [
+        "The Arabic and transliteration address one child: أعيذك / ’Uʻīdhuka. The source English says “I seek refuge” without making that addressed person explicit."
+      ],
+      "readingNote": "The Arabic addresses one child; its printed English uses “I seek refuge”.",
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3517.HEIC"
+      ]
+    },
+    {
+      "id": "daily-child-first-words",
+      "order": 64,
+      "section": "Wedding and children",
+      "sourceHeading": "Fifth: Invocation for wedding and children",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Teaching a child Allah’s oneness",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
+      "transliteration": "Lā ilāha illāllāh",
+      "translation": "None has the right to be worshipped but Allāh",
+      "practice": "The book says to teach this when a child begins to talk. It then says to instruct the child to observe prayer when weaned. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        130
+      ],
+      "sourceFootnotes": [
+        25
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3517.HEIC"
+      ]
+    },
+    {
+      "id": "daily-pleasing-sight",
+      "order": 65,
+      "section": "Noticeable things",
+      "sourceHeading": "Sixth: Invocations pertaining to noticeable things",
+      "sourcePart": "Section Four · Various situations",
+      "title": "On seeing something pleasing",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+      "transliteration": "Alḥamdulillāhil ladhī biniʻmatihi tatimmuṣ ṣāliḥāt",
+      "translation": "Praise is to Allāh, by Whose grace all good things are accomplished.",
+      "practice": "The book gives this when seeing something pleasing. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        130,
+        131
+      ],
+      "sourceFootnotes": [
+        26
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3517.HEIC",
+        "IMG_3518.HEIC"
+      ]
+    },
+    {
+      "id": "daily-displeasing-sight",
+      "order": 66,
+      "section": "Noticeable things",
+      "sourceHeading": "Sixth: Invocations pertaining to noticeable things",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Praise in all conditions",
+      "arabic": "الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ",
+      "transliteration": "Alḥamdulillāhi ʻalā kulli ḥālin",
+      "translation": "Praise is to Allāh in all conditions.",
+      "practice": "The book gives this when seeing something displeasing. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        131
+      ],
+      "sourceFootnotes": [
+        27
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3518.HEIC"
+      ]
+    },
+    {
+      "id": "daily-mirror",
+      "order": 67,
+      "section": "Noticeable things",
+      "sourceHeading": "Sixth: Invocations pertaining to noticeable things",
+      "sourcePart": "Section Four · Various situations",
+      "title": "On looking in a mirror",
+      "arabic": "اللَّهُمَّ أَنْتَ حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي وَحَرِّمْ وَجْهِي عَلَى النَّارِ، الْحَمْدُ لِلَّهِ الَّذِي سَوَّى خَلْقِي فَعَدَلَهُ، وَكَرَّمَ صُورَةَ وَجْهِي فَأَحْسَنَهَا وَجَعَلَنِي مِنَ الْمُسْلِمِينَ",
+      "transliteration": "Allāhumma Anta ḥassanta khalqī faḥassin khulqī wa ḥarrim wajhī ʻalan Nār. Alḥamdulillāhi ladhī ṣawwā khalqī faʻadalahu, wa karrama ṣūrata wajhiya faʻahsunahā wajaʻalnī minal Muslimīn.",
+      "translation": "O Allāh! You have perfected my creation so make my character good and keep my face safe from Hell-fire. Praise is to Allāh Who has fashioned and made me balanced, and honour my face and made me one of the Muslims.",
+      "practice": "The book presents this for seeing oneself in a mirror. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        131,
+        132
+      ],
+      "sourceFootnotes": [
+        28
+      ],
+      "notes": [
+        "The source transliteration prints “ṣawwā” and “faʻahsunahā”; the Arabic spells سوّى and فأحسنها. Source forms are retained."
+      ],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3518.HEIC"
+      ]
+    },
+    {
+      "id": "daily-first-fruit",
+      "order": 68,
+      "section": "Noticeable things",
+      "sourceHeading": "Sixth: Invocations pertaining to noticeable things",
+      "sourcePart": "Section Four · Various situations",
+      "title": "On seeing the season’s first fruit",
+      "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِينَتِنَا وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا، اللَّهُمَّ كَمَا أَرَيْتَنَا أَوَّلَهُ فَأَرِنَا آخِرَهُ",
+      "transliteration": "Allāhumma bārik lanā fī thamarinā, wa bārik lanā fī madīnatinā wa bārik lanā fī ṣāʻinā wa bārik lanā fī muddinā. Allāhumma kamā araitana awwalahu fa’arina ākhirah.",
+      "translation": "O Allāh! Bless us in our fruit, bless us in our city and bless us in all kinds of measure.",
+      "practice": "The book gives this on seeing the season’s first fruit, followed by giving the fruit to the youngest child present. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        132,
+        133
+      ],
+      "sourceFootnotes": [
+        29
+      ],
+      "notes": [
+        "The printed English does not translate the final Arabic and transliteration request beginning اللهم كما أريتنا أوله. The shorter source English is retained."
+      ],
+      "readingNote": "The printed English omits the final request included in the Arabic and transliteration.",
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3518.HEIC",
+        "IMG_3519.HEIC"
+      ]
+    },
+    {
+      "id": "daily-seeing-a-smile",
+      "order": 69,
+      "section": "Noticeable things",
+      "sourceHeading": "Sixth: Invocations pertaining to noticeable things",
+      "sourcePart": "Section Four · Various situations",
+      "title": "On seeing someone smile",
+      "arabic": "أَضْحَكَ اللَّهُ سِنَّكَ",
+      "transliteration": "’Aḍḥakallāhu sinnaka",
+      "translation": "May Allāh make you smile forever.",
+      "practice": "The book gives this when seeing a Muslim smiling. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        133
+      ],
+      "sourceFootnotes": [
+        30
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3519.HEIC"
+      ]
+    },
+    {
+      "id": "daily-conveyed-greeting",
+      "order": 70,
+      "section": "Greetings and kindness",
+      "sourceHeading": "Seventh: Invocation for exchanging greeting",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Replying to a conveyed greeting",
+      "arabic": null,
+      "transliteration": null,
+      "translation": null,
+      "practice": "The book says that when receiving a greeting conveyed by another person, one should respond to both the bringer and the sender. It does not print a greeting formula here or specify a repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        134
+      ],
+      "sourceFootnotes": [
+        31,
+        32
+      ],
+      "notes": [
+        "This is a summary of the photographed guidance; no Arabic greeting has been added."
+      ],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3519.HEIC"
+      ]
+    },
+    {
+      "id": "daily-love-response",
+      "order": 71,
+      "section": "Greetings and kindness",
+      "sourceHeading": "Seventh: Invocation for exchanging greeting",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Replying to an expression of love",
+      "arabic": "أَحَبَّكَ الَّذِي أَحْبَبْتَنِي لَهُ",
+      "transliteration": "’Aḥabbakal ladhī aḥbabtanī lahu",
+      "translation": "May He for Whose sake you love me, love you.",
+      "practice": "The book gives this response when someone says they love you. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        134
+      ],
+      "sourceFootnotes": [
+        33
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3519.HEIC"
+      ]
+    },
+    {
+      "id": "daily-morning-praise",
+      "order": 72,
+      "section": "Greetings and kindness",
+      "sourceHeading": "Seventh: Invocation for exchanging greeting",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Praise when asked about one’s morning",
+      "arabic": "أَحْمَدُ اللَّهَ إِلَيْكَ",
+      "transliteration": "’Aḥmadullāha ilaik",
+      "translation": "I praise Allāh",
+      "practice": "The book gives this as one response when asked how one’s morning is. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        134,
+        135
+      ],
+      "sourceFootnotes": [
+        34
+      ],
+      "notes": [
+        "The printed English does not render إليك / ilaik separately. Source wording is retained."
+      ],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3519.HEIC",
+        "IMG_3520.HEIC"
+      ]
+    },
+    {
+      "id": "daily-morning-well",
+      "order": 73,
+      "section": "Greetings and kindness",
+      "sourceHeading": "Seventh: Invocation for exchanging greeting",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Another reply about one’s morning",
+      "arabic": "بِخَيْرٍ أَحْمَدُ اللَّهَ",
+      "transliteration": "Bikhairin ’aḥmadullāH",
+      "translation": "Fine, I praise Allāh.",
+      "practice": "The book gives this as an alternative response when asked how one’s morning is. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        134,
+        135
+      ],
+      "sourceFootnotes": [
+        34
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3519.HEIC",
+        "IMG_3520.HEIC"
+      ]
+    },
+    {
+      "id": "daily-kindness-reward",
+      "order": 74,
+      "section": "Greetings and kindness",
+      "sourceHeading": "Seventh: Invocation for exchanging greeting",
+      "sourcePart": "Section Four · Various situations",
+      "title": "For someone who has done good",
+      "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+      "transliteration": "Jazākallāhu khairan",
+      "translation": "May Allāh reward you profusely.",
+      "practice": "The book gives this when someone does well to you. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        135
+      ],
+      "sourceFootnotes": [
+        35
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3520.HEIC"
+      ]
+    },
+    {
+      "id": "daily-calamity-praise",
+      "order": 75,
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Praise during calamity and grief",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ الْكَرِيمُ الْعَظِيمُ سُبْحَانَهُ تَبَارَكَ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "transliteration": "Lā ilāha illāllāhul Karīmul ʻAẓīmu subḥānahu tabārakAllāhu Rabbul Arshil ʻAẓīmi, Alḥamdulillāh Rabbil ʻālamīn.",
+      "translation": "None has the right to be worshipped but Allāh, the Bountiful and the Mighty. Glory is to You and Exalted be You, the Lord of the magnificent Throne. Praise is to Allāh, the Lord of the worlds.",
+      "practice": "The book lists this among invocations during calamity, sadness, grief and catastrophe. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        136
+      ],
+      "sourceFootnotes": [
+        36
+      ],
+      "notes": [
+        "The source Arabic prints الكريم and سبحانه تبارك الله. These words are retained without replacing them with another narration’s wording.",
+        "The source English switches to “You” for سبحانه تبارك الله. Source layers are retained separately."
+      ],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3520.HEIC"
+      ]
+    },
+    {
+      "id": "daily-trust-ever-living",
+      "order": 76,
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Trust in the Ever Living",
+      "arabic": "تَوَكَّلْتُ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ",
+      "transliteration": "Tawakkaltu ʻalal Ḥayyil ladhī lā yamūt",
+      "translation": "I have placed my trust in the One, the Living, Who will never die.",
+      "practice": "The book lists this among invocations during calamity, sadness, grief and catastrophe. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        136
+      ],
+      "sourceFootnotes": [
+        37
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3520.HEIC"
+      ]
+    },
+    {
+      "id": "daily-praise-without-partner",
+      "order": 77,
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Praise of Allah without partner or need",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ وَكَبِّرْهُ تَكْبِيرًا",
+      "transliteration": "Alḥamdulillāhil ladhī lam yattakhidh waladan, wa lam yakun lahu sharīkun fil mulki wa lam yakun lahu waliyyu minadh dhulli wa kabbirhu takbīran.",
+      "translation": "All the praises and thanks be to Allāh, Who has not begotten a son (or offspring), and Who has no partner in (His) Dominion, nor He is low to have a helper. And Magnify Him with all magnificence. Allāh is the most Great.",
+      "practice": "The book lists this among invocations during calamity, sadness, grief and catastrophe. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        137
+      ],
+      "sourceFootnotes": [
+        38
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3521.HEIC"
+      ]
+    },
+    {
+      "id": "daily-mercy-in-distress",
+      "order": 78,
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Hoping for Allah’s mercy in distress",
+      "arabic": "اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لَا إِلَهَ إِلَّا أَنْتَ",
+      "transliteration": "Allāhumma raḥmataKa arju falā takilni ila nafsī ṭarfata ʻainin, wa aṣliḥ li sha’ni kullāhu lā ilāha illā Anta",
+      "translation": "O Allāh! (It is) Your Mercy I hope for. So, do not leave me to myself even for the blink of an eye and rectify for me all my conditions. There is no god but You.",
+      "practice": "The book lists this among invocations during calamity, sadness, grief and catastrophe. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        137,
+        138
+      ],
+      "sourceFootnotes": [
+        39
+      ],
+      "notes": [
+        "The source transliteration spells kullāhu, while the Arabic is كله. The printed form is retained."
+      ],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3521.HEIC"
+      ]
+    },
+    {
+      "id": "daily-ever-living-help",
+      "order": 79,
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Seeking help through Allah’s mercy",
+      "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+      "transliteration": "Yā Ḥayyu yā Qayyūmu biraḥmatiKa astaghīth",
+      "translation": "O the Ever Living: O the Eternal! By Your Mercy I seek Your Help.",
+      "practice": "The book lists this among invocations during calamity, sadness, grief and catastrophe. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        138
+      ],
+      "sourceFootnotes": [
+        40
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3521.HEIC"
+      ]
+    },
+    {
+      "id": "daily-yunus-distress",
+      "order": 80,
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life",
+      "sourcePart": "Section Four · Various situations",
+      "title": "Affirming Allah’s oneness in distress",
+      "arabic": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "transliteration": "Lā ilāha illā Anta subḥānaKa innī kuntu minaẒ ẓālimīn",
+      "translation": "None has the right to be worshipped but You (O Allāh, Glorified be You above all that (evil) they associate with You). Truly, I have been of the wrongdoers.",
+      "practice": "The book lists this among invocations during calamity, sadness, grief and catastrophe. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        138
+      ],
+      "sourceFootnotes": [
+        41
+      ],
+      "notes": [],
+      "readingNote": null,
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3521.HEIC"
+      ]
+    },
+    {
+      "id": "daily-quran-comfort-in-distress",
+      "order": 81,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life",
+      "title": "Asking for the Qur’an to bring comfort",
+      "arabic": "اللَّهُمَّ إِنِّي عَبْدُكَ ابْنُ عَبْدِكَ ابْنُ أَمَتِكَ نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ سَمَّيْتَ بِهِ نَفْسَكَ، أَوْ أَنْزَلْتَهُ فِي كِتَابِكَ أَوْ عَلَّمْتَهُ أَحَدًا مِنْ خَلْقِكَ أَوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الْغَيْبِ عِنْدَكَ، أَنْ تَجْعَلَ الْقُرْآنَ رَبِيعَ قَلْبِي، وَنُورَ بَصَرِي، وَجَلَاءَ حُزْنِي، وَذَهَابَ هَمِّي",
+      "transliteration": "Allāhumma innī ‘abduKa bn ‘abdiKa bn amatiKa nāṣiyatī biyadiKa, māḍin fī ḥukmuKa ‘adlun fiyya qaḍā’uKa ’as’aluKa bikulli ismin huwa laKa sammaTa bihi nafsaKa aw anzaltahu fī kitābiKa aw ‘allamtahu aḥadan min khalqiKa aw sta’tharta bihi fī ‘ilmil ghaibi ‘indaKa, an taj‘alal Qur’āna rabī‘a qalbī wa nūra baṣarī wajalā’a ḥuznī wa dhahāba hammī.",
+      "translation": "O Allāh! Verily, I am Your servant, and the son of Your female servant. My forelock is in Your hand and Your judgement is passed on me. Your just decree is accepted. I ask You by every Name You have, which You have given Yourself or have revealed in Your book, or have taught any of Your creature or You have kept in secret in the hidden knowledge with You, that You make the Qur’ān the delight of my heart, the light of my breast, the relief of my sorrow and departure of my worry.",
+      "practice": "The book places this supplication among invocations for obstacles in life. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        139,
+        140
+      ],
+      "sourceFootnotes": [
+        42
+      ],
+      "readingNote": "The book’s Arabic says “light of my sight” (نُورَ بَصَرِي), while its translation says “light of my breast”. The source wording is retained.",
+      "notes": [
+        "The printed English omits a separate equivalent for ابْنُ عَبْدِكَ (“son of Your male servant”).",
+        "The photographed Arabic and transliteration use بَصَرِي / baṣarī. This has not been replaced with a different wording from memory."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3522.HEIC"
+      ]
+    },
+    {
+      "id": "daily-strength-in-difficulty",
+      "order": 82,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life",
+      "title": "There is no might or power except with Allah",
+      "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Lā ḥawla wa lā quwwata illā billāH",
+      "translation": "There is neither might nor power except with Allāh.",
+      "practice": "The book includes this remembrance among invocations for obstacles in life. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        140
+      ],
+      "sourceFootnotes": [
+        43
+      ],
+      "readingNote": null,
+      "notes": [],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3522.HEIC"
+      ]
+    },
+    {
+      "id": "daily-after-unwelcome-event",
+      "order": 83,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life · 2. Invocation for something one dislikes",
+      "title": "When something unwelcome happens",
+      "arabic": "قَدَرَ اللَّهُ وَمَا شَاءَ فَعَلَ",
+      "transliteration": "Qaddarallāhu wa mā shā’a fa‘ala.",
+      "translation": "Allāh has decreed and as He wished He did.",
+      "practice": "The book presents this for an unwelcome event and counsels against dwelling on “if” in response to what has occurred. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        140,
+        141
+      ],
+      "sourceFootnotes": [
+        44
+      ],
+      "readingNote": null,
+      "notes": [
+        "The printed transliteration gives “Qaddarallāhu”, while the photographed Arabic displays قَدَرَ without a shadda on د. The source forms are retained."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3522.HEIC",
+        "IMG_3523.HEIC"
+      ]
+    },
+    {
+      "id": "daily-when-overpowered",
+      "order": 84,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life · 3. When overpowered",
+      "title": "When overpowered by an issue",
+      "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "transliteration": "Ḥasbunallāhu wa ni‘mal wakīl",
+      "translation": "Allāh is sufficient for us, and He is the Best Disposer of affairs.",
+      "practice": "The book presents this for feeling overpowered by an issue. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        141
+      ],
+      "sourceFootnotes": [
+        45
+      ],
+      "readingNote": null,
+      "notes": [],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3523.HEIC"
+      ]
+    },
+    {
+      "id": "daily-during-trial",
+      "order": 85,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life · 4. During trial",
+      "title": "During a trial or loss",
+      "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ، اللَّهُمَّ عِنْدَكَ أَحْتَسِبُ مُصِيبَتِي فَأْجُرْنِي فِيهَا وَأَبْدِلْنِي مِنْهَا خَيْرًا",
+      "transliteration": "Innā lillāhi wa innā ilaihi rāji‘ūna. Allāhumma ‘indaka aḥtasib muṣībatī fa’ajurnī fīha wa abdilnī minhā khairan",
+      "translation": "Truly! To Allāh we belong and truly to Him we shall return. O Allāh! I expect reward from You due to my trial, so reward me for it, and replace it with something better.",
+      "practice": "The book presents this when afflicted with a trial. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        141,
+        142
+      ],
+      "sourceFootnotes": [
+        46
+      ],
+      "readingNote": null,
+      "notes": [
+        "The subsection heading also carries the printed marker 45*."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3523.HEIC"
+      ]
+    },
+    {
+      "id": "daily-make-difficulty-easy",
+      "order": 86,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life · 5. During difficulty",
+      "title": "Asking for difficulty to become easy",
+      "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+      "transliteration": "Allāhumma lā sahla illā mā ja‘altahu sahlan wā Anta taj‘alul ḥuzna idhā shi’Ta sahlan",
+      "translation": "O Allāh! There is no ease except what You make easy. And if You wish, You will make roughness and difficulty easy.",
+      "practice": "The book presents this when facing difficulty. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        142,
+        143
+      ],
+      "sourceFootnotes": [
+        47,
+        48
+      ],
+      "readingNote": null,
+      "notes": [
+        "The printed Arabic vowels give الْحَزْنَ, while the source transliteration prints “ḥuzna”. The two source forms are retained."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3523.HEIC",
+        "IMG_3524.HEIC"
+      ]
+    },
+    {
+      "id": "daily-during-anger",
+      "order": 87,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life · 6. During Anger",
+      "title": "When angry",
+      "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "transliteration": "’A‘ūdhu billāhi minass shaiṭānir rajīm",
+      "translation": "I seek refuge with Allāh from the accursed devil.",
+      "practice": "The book presents this for someone who becomes angry. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        143
+      ],
+      "sourceFootnotes": [
+        49,
+        50
+      ],
+      "readingNote": null,
+      "notes": [],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3524.HEIC"
+      ]
+    },
+    {
+      "id": "daily-when-in-debt",
+      "order": 88,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Obstacles in life",
+      "sourceHeading": "Eighth: Invocation for obstacles in life · 7. When afflicted with debt",
+      "title": "When burdened by debt",
+      "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "transliteration": "Allāhumma ikfinī biḥalāliKa ‘an ḥarāmiKa waghninī bifaḍliKa ‘amman siwāK",
+      "translation": "O Allāh! Suffice me with Your lawful bounty and not with which is unlawful. O Allāh! Make me independent by Your bounty, free from (need of) anyone but You.",
+      "practice": "The book presents this when burdened by debt. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        143,
+        144
+      ],
+      "sourceFootnotes": [
+        51
+      ],
+      "readingNote": null,
+      "notes": [],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3524.HEIC"
+      ]
+    },
+    {
+      "id": "daily-pain-bismillah",
+      "order": 89,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Illness and bereavement",
+      "sourceHeading": "Ninth: Invocations for ailment and death · 1. During pain",
+      "title": "In Allah’s name during pain",
+      "arabic": "بِسْمِ اللَّهِ",
+      "transliteration": "BismillāH",
+      "translation": "In the Name of Allāh.",
+      "practice": "The book instructs placing a hand on the place of pain and saying Bismillah three times, followed by the next supplication seven times.",
+      "repetitions": 3,
+      "sourcePages": [
+        144,
+        145
+      ],
+      "sourceFootnotes": [
+        52
+      ],
+      "readingNote": null,
+      "notes": [
+        "The printed parenthetical “three times” is represented by the repetition count, rather than as part of the spoken Arabic."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3524.HEIC",
+        "IMG_3525.HEIC"
+      ]
+    },
+    {
+      "id": "daily-pain-seeking-refuge",
+      "order": 90,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Illness and bereavement",
+      "sourceHeading": "Ninth: Invocations for ailment and death · 1. During pain",
+      "title": "Seeking refuge during pain",
+      "arabic": "أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+      "transliteration": "’A‘ūdhu bi‘izzatillāhi waqudratihi min sharri mā ajidu wa uḥādhir",
+      "translation": "I seek refuge with the Might of Allāh and His Power from the evil of that which I find and fear.",
+      "practice": "After saying Bismillah three times with a hand on the place of pain, the book gives this supplication seven times.",
+      "repetitions": 7,
+      "sourcePages": [
+        144,
+        145
+      ],
+      "sourceFootnotes": [
+        52
+      ],
+      "readingNote": null,
+      "notes": [
+        "The printed parenthetical “Seven times” is represented by the repetition count, rather than as part of the spoken Arabic."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3524.HEIC",
+        "IMG_3525.HEIC"
+      ]
+    },
+    {
+      "id": "daily-visiting-sick",
+      "order": 91,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Illness and bereavement",
+      "sourceHeading": "Ninth: Invocations for ailment and death · 2. Upon visiting the sick",
+      "title": "Praying for someone who is ill",
+      "arabic": "اللَّهُمَّ أَذْهِبِ الْبَأْسَ رَبَّ النَّاسِ اشْفِ وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+      "transliteration": "Allāhumma adh-hibil ba’sa Rabban nāsi Ishfi wa Antash Shāfī, lā shifā’a illā shifā’uKa, shifā’an lā yughādiru saqamā",
+      "translation": "O Allāh! You are the Lord of the mankind, remove the evil and grant healing, for You are the Healer. There is no healing except Your healing, which does not leave any sickness.",
+      "practice": "The book presents this when visiting someone who is ill, followed by a gentle touch with the hand and good words to the person. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        145
+      ],
+      "sourceFootnotes": [
+        53
+      ],
+      "readingNote": null,
+      "notes": [
+        "The subsection heading also carries the printed marker 52*. This is a devotional supplication, with no independent promise of a medical outcome."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3525.HEIC"
+      ]
+    },
+    {
+      "id": "daily-words-of-condolence",
+      "order": 92,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Illness and bereavement",
+      "sourceHeading": "Ninth: Invocations for ailment and death · 3. During the time of condolence",
+      "title": "Words of condolence",
+      "arabic": "إِنَّ لِلَّهِ مَا أَخَذَ وَلَهُ مَا أَعْطَى وَكُلُّ شَيْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى فَلْتَصْبِرْ وَلْتَحْتَسِبْ",
+      "transliteration": "Inna lillāhi mā akhadha wa laHu mā ’a‘ṭā wa kullu shai’in ‘indaHu bi’ajalin musamma faltaṣbir waltaḥtasib.",
+      "translation": "Surely to Allāh which He has taken, and what He has given, and all things He has appointed a time. So exercise patience and anticipate His rewards.",
+      "practice": "The book instructs conveying greetings and saying these words when offering condolences. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        146
+      ],
+      "sourceFootnotes": [
+        54
+      ],
+      "readingNote": null,
+      "notes": [
+        "The subsection heading also carries the printed marker 53*. The English grammar is retained from the source."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3525.HEIC"
+      ]
+    },
+    {
+      "id": "daily-condolence-letter-guidance",
+      "order": 93,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Illness and bereavement",
+      "sourceHeading": "Ninth: Invocations for ailment and death · 3. During the time of condolence",
+      "title": "The book’s letter of condolence",
+      "arabic": null,
+      "transliteration": null,
+      "translation": null,
+      "practice": "The book reproduces a condolence letter that asks Allah to increase the bereaved person’s reward, inspire patience and enable gratitude. It describes lives, wealth and families as gifts entrusted for a time, and counsels patience and hope for Allah’s reward. No fixed Arabic wording for this letter is printed in these photographs.",
+      "repetitions": null,
+      "sourcePages": [
+        146,
+        147
+      ],
+      "sourceFootnotes": [
+        55
+      ],
+      "readingNote": null,
+      "notes": [
+        "This entry summarizes the book’s English letter and preserves its place in the source sequence. It is not a newly supplied Arabic recitation or independent authentication of the letter’s attribution."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3525.HEIC",
+        "IMG_3526.HEIC"
+      ]
+    },
+    {
+      "id": "daily-funeral-prayer",
+      "order": 94,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Illness and bereavement",
+      "sourceHeading": "Ninth: Invocations for ailment and death · 4. In the funeral prayer",
+      "title": "Supplication in the funeral prayer",
+      "arabic": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مَدْخَلَهُ وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ، وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ أَوْ مِنْ عَذَابِ النَّارِ",
+      "transliteration": "Allāhumma ighfir lahu warḥamhu wa ‘āfihi wa‘fu anhu wa akrim nuzulahu wa wassi‘ madkhalahu, waghsilhu bil mā’i waththalji wal baradi wanaqqihi minal khaṭāyā kamā naqqaitath thawbal abyaḍa minad danasi, wa abdilhu dāran khairan min dārihi, wa’ahlan khairan min ’ahlihi, wa zawjan khairan min zawjihi, wa adkhilhul jannata, wa a‘idhhu min ‘adhābil qabri aw min ‘adhābin nār.",
+      "translation": "O Allāh! Forgive him and have mercy on him and give him strength and pardon him. Be generous to him and cause his entrance to be wide and wash him with rain water, snow and ice. Cleanse him from the mistakes (he has committed), just as the white garment is cleansed from dirts. O Allāh! Transfer him to a home better than his home (in the world), a family that is better than his (in the world), a wife better off than his (in the world) and let him enter Paradise and save him from the torment of the grave and the torment of Hell-fire.",
+      "practice": "The book presents this supplication for the deceased during the funeral prayer. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        147,
+        148,
+        149
+      ],
+      "sourceFootnotes": [
+        56,
+        57
+      ],
+      "readingNote": null,
+      "notes": [
+        "The Arabic and transliteration use أَوْ / aw (“or”) between the last two phrases, while the printed English says “and”. The source forms are retained.",
+        "The photographed supplication uses masculine singular pronouns; the source wording is preserved."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3526.HEIC",
+        "IMG_3527.HEIC"
+      ]
+    },
+    {
+      "id": "daily-visiting-graves",
+      "order": 95,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Illness and bereavement",
+      "sourceHeading": "Ninth: Invocations for ailment and death · 5. On visiting the graves",
+      "title": "When visiting graves",
+      "arabic": "السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ، وَيَرْحَمُ اللَّهُ الْمُسْتَقْدِمِينَ مِنْكُمْ وَالْمُسْتَأْخِرِينَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ. أَسْأَلُ اللَّهَ لَنَا وَلَكُمُ الْعَافِيَةَ، أَنْتُمْ لَنَا فَرَطٌ وَنَحْنُ لَكُمْ تَبَعٌ، اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُمْ وَلَا تُضِلَّنَا بَعْدَهُمْ",
+      "transliteration": "AsSalām ‘alaikum ahlad diyāri minal mu’minīna wal muslimīna, wa yarrḥamullāhul mustaqdimīna minkum wal musta’khirīna, wa innā In shā’Allāhu bikum lāḥiqun. As’alullāha lanā walakumul ‘āfiyatu, antum lanā faraṭun, wa naḥnu lakum taba‘un, Allāhumma lā taḥrimnā ajrahum wa lā tuḍillunā ba‘dahum.",
+      "translation": "Peace be upon you, the dwellers of the city (the graveyard), faithfuls and Muslims. And may Allāh shower His mercy on those who died first and those who died last. We shall, Allāh willing, join you. I ask Allāh safety for us and for you. You are our forerunners, and we are your followers.\nO Allāh! Do not deprive us of their rewards and do not lead us astray after them.",
+      "practice": "The book presents this when visiting graves. It specifies no repetition count.",
+      "repetitions": null,
+      "sourcePages": [
+        149,
+        150
+      ],
+      "sourceFootnotes": [
+        58,
+        59
+      ],
+      "readingNote": null,
+      "notes": [
+        "The source transliteration’s spellings, including “yarrḥamullāhul”, “lāḥiqun”, and “‘āfiyatu”, are retained."
+      ],
+      "repetitionGuidance": null,
+      "sourcePhotoFiles": [
+        "IMG_3527.HEIC"
+      ]
+    },
+    {
+      "id": "daily-salatut-tasbih",
+      "order": 96,
+      "sourcePart": "Section Four · Various situations",
+      "section": "Salatut Tasbih",
+      "sourceHeading": "Tenth: (On the performance of) Ṣalātut-Tasbīḥ",
+      "title": "The book’s Salatut Tasbih sequence",
+      "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+      "transliteration": "SubḥānAllāhi wal ḥamdulillāhi wa lā ilāha illāllāhu wallāhu Akbar",
+      "translation": "Glory be to Allāh, praise is to Allāh, none has the right to be worshipped except Allāh and Allāh is Great",
+      "practice": "The book describes a voluntary prayer of four raka‘ah, with one or two taslims. In each raka‘ah it says to recite Al-Fatihah and a surah, then this formula 15 times while standing; 10 times in ruku‘; 10 after raising the head; 10 in the first sujud; 10 between the two prostrations; 10 in the second sujud; and 10 during what the book calls At-Tashahhud. It gives a total of 75 glorifications per raka‘ah and says to repeat the sequence in each raka‘ah until finishing.",
+      "repetitions": null,
+      "repetitionGuidance": "Counts vary by prayer stage",
+      "sourcePages": [
+        151,
+        152
+      ],
+      "sourceFootnotes": [
+        60,
+        61
+      ],
+      "readingNote": "The stage counts follow the photographed book. Its final stage is labeled “during At-Tashahhud”; that wording is preserved.",
+      "notes": [
+        "This is a compound prayer sequence: 15 at the first listed stage and 10 at each of the six following stages. A single recitation count would conceal the instructions, so the stage counts remain in the practice guidance.",
+        "The book’s described method is retained as a source edition; its endnotes and independent evaluation of the narration are not included in these photographs."
+      ],
+      "sourcePhotoFiles": [
+        "IMG_3528.HEIC"
+      ]
+    }
+  ]
+}
