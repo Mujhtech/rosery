@@ -1,0 +1,20 @@
+# macOS and Xcode local state
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.build/
+build/
+
+# Generated App Store Connect artifacts and signed build products
+**/.asc/artifacts/
+*.xcarchive/
+*.ipa
+*.dSYM/
+*.dSYM.zip
+*.xcresult/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
