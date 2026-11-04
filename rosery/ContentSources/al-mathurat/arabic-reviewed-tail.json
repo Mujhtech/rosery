@@ -1,0 +1,205 @@
+[
+  {
+    "number": 9,
+    "pages": [
+      11
+    ],
+    "arabic": "أصبحنا وأصبح الملك لله، والحمد لله لا شريك له، لا إله إلا هو وإليه النشور",
+    "notes": [
+      "Visually verified against PDF page 11. Morning wording is preserved; no evening substitution has been invented."
+    ]
+  },
+  {
+    "number": 10,
+    "pages": [
+      12
+    ],
+    "arabic": "أصبحنا على فطرة الإسلام، وكلمة الإخلاص، وعلى دين نبينا محمد ﷺ، وعلى ملة أبينا إبراهيم حنيفا وما كان من المشركين",
+    "notes": [
+      "The booklet omits مسلما after حنيفا in both Arabic and transliteration. This is preserved in the source transcription. The related narration in Sunan an-Nasa'i al-Kubra 9443 includes حنيفا مسلما; do not silently insert a word into the booklet edition.",
+      "The printed blessing glyph following محمد is represented by Unicode ﷺ."
+    ],
+    "canonicalVariantProposal": "أصبحنا على فطرة الإسلام، وكلمة الإخلاص، وعلى دين نبينا محمد ﷺ، وعلى ملة أبينا إبراهيم حنيفا مسلما وما كان من المشركين",
+    "comparisonSource": "https://sunnah.com/urn/8447215"
+  },
+  {
+    "number": 11,
+    "pages": [
+      12
+    ],
+    "arabic": "اللهم أني أصبحت منك في نعمة وعافية وستر، فأتم علي نعمتك وعافيتك وسترك في الدنيا والآخرة",
+    "notes": [
+      "The booklet prints أني with hamza above the alif, while its transliteration reads inni. This printed form is independently confirmed from the page image; the separate normalization uses إني."
+    ],
+    "normalizedArabicProposal": "اللهم إني أصبحت منك في نعمة وعافية وستر، فأتم علي نعمتك وعافيتك وسترك في الدنيا والآخرة"
+  },
+  {
+    "number": 12,
+    "pages": [
+      13
+    ],
+    "arabic": "اللهم ما أصبح بي من نعمة أو بأحد من خلقك فمنك وحدك لا شريك لك فلك الحمد ولك الشكر",
+    "notes": []
+  },
+  {
+    "number": 13,
+    "pages": [
+      13
+    ],
+    "arabic": "يا ربي لك الحمد كما ينبغي لجلال وجهك وعظيم سلطانك",
+    "notes": []
+  },
+  {
+    "number": 14,
+    "pages": [
+      13
+    ],
+    "arabic": "رضيت بالله ربا، وبالإسلام دينا، وبمحمد نبيا ورسولا",
+    "notes": []
+  },
+  {
+    "number": 15,
+    "pages": [
+      14
+    ],
+    "arabic": "سبحان الله وبحمده عدد خلقه ورضا نفسه وزنة عرشه ومداد كلماته",
+    "notes": []
+  },
+  {
+    "number": 16,
+    "pages": [
+      14
+    ],
+    "arabic": "بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم",
+    "notes": []
+  },
+  {
+    "number": 17,
+    "pages": [
+      15
+    ],
+    "arabic": "اللهم إنا نعوذ بك من أن نشرك بك شيئا نعلمه ونستغفرك لما لا نعلمه",
+    "notes": []
+  },
+  {
+    "number": 18,
+    "pages": [
+      15
+    ],
+    "arabic": "أعوذ بكلمات الله التامات من شر ما خلق",
+    "notes": []
+  },
+  {
+    "number": 19,
+    "pages": [
+      16
+    ],
+    "arabic": "اللهم إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ بك من الجبن والبخل، وأعوذ بك من غلبة الدين وقهر الرجال",
+    "notes": []
+  },
+  {
+    "number": 20,
+    "pages": [
+      16
+    ],
+    "arabic": "الله عافني في بدني، اللهم عافني في سمعي، اللهم عافني في بصري",
+    "notes": [
+      "Source typo: the first invocation is printed الله, while the next two use اللهم. The booklet's own transliteration reads Allahumma for all three. The matching narration in Sunan Abi Dawud 5090 also starts اللهم عافني. Source wording remains unchanged here; use the separately recorded proposal only as an explicitly documented correction.",
+      "The matching hadith adds لا إله إلا أنت after this triad. The booklet omits that clause in item 20 and prints it at the end of item 21. Do not silently append it to a faithful booklet transcription."
+    ],
+    "normalizedArabicProposal": "اللهم عافني في بدني، اللهم عافني في سمعي، اللهم عافني في بصري",
+    "comparisonSource": "https://sunnah.com/abudawud:5090"
+  },
+  {
+    "number": 21,
+    "pages": [
+      17
+    ],
+    "arabic": "اللهم إني أعوذ بك من الكفر والفقر، وأعوذ بك من عذاب القبر، لا إله إلا أنت",
+    "notes": []
+  },
+  {
+    "number": 22,
+    "pages": [
+      17
+    ],
+    "arabic": "اللهم أنت ربي، لا إله إلا أنت، خلقتني وأنا عبدك، وأنا على عهدك ووعدك ما استطعت، أعوذ بك من شر ما صنعت، أبوء لك بنعمتك علي، وأبوء بذنبي، فاغفر لي فإنه لا يغفر الذنوب إلا أنت",
+    "notes": []
+  },
+  {
+    "number": 23,
+    "pages": [
+      18
+    ],
+    "arabic": "استغفر الله العظيم الذي لا إله إلا هو الحي القيوم وأتوب إليه",
+    "notes": [
+      "The booklet prints استغفر without the initial hamza. The separate orthographic normalization uses أستغفر; no words are added."
+    ],
+    "normalizedArabicProposal": "أستغفر الله العظيم الذي لا إله إلا هو الحي القيوم وأتوب إليه"
+  },
+  {
+    "number": 24,
+    "pages": [
+      18
+    ],
+    "arabic": "سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، استغفرك وأتوب إليك",
+    "notes": [
+      "The booklet prints استغفرك without the initial hamza. The separate orthographic normalization uses أستغفرك; no words are added."
+    ],
+    "normalizedArabicProposal": "سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك"
+  },
+  {
+    "number": 25,
+    "pages": [
+      19
+    ],
+    "arabic": "اللهم صل على سيدنا محمد عبدك ورسولك النبي الأمي وعلى آله وصحبه وسلم تسليما عدد ما أحاط به علمك وخط به قلمك وأحصاه كتابك، وارض اللهم عن ساداتنا أبي بكر وعمر وعثمان وعلي، وعن الصحابة أجمعين، وعن التابعين وتابعيهم بإحسان إلى يوم الدين",
+    "notes": [
+      "The Arabic includes سيدنا before محمد, but the booklet transliteration omits it. The English includes 'our leader'. Source Arabic is preserved.",
+      "No repetition count is printed for this item. Do not infer three repetitions from preceding items."
+    ]
+  },
+  {
+    "number": 26,
+    "pages": [
+      20
+    ],
+    "arabic": "سبحان ربك رب العزة عما يصفون، وسلام على المرسلين، والحمد لله رب العالمين",
+    "notes": [
+      "Complete wording matches Qur'an 37:180-182 after removal of vowel/recitation marks and verse numbers. No words are missing in the booklet's three-verse excerpt.",
+      "No repetition count is printed for this item."
+    ],
+    "quranReference": "37:180-182",
+    "comparisonSource": "https://quran.com/37/180-182"
+  },
+  {
+    "number": 27,
+    "pages": [
+      21,
+      22
+    ],
+    "arabic": "اللهم إنك تعلم .. أن هذه القلوب قد اجتمعت على محبتك، والتقت على طاعتك، وتوحدت على دعوتك، وتعاهدت على نصرة شريعتك، فوثق اللهم رابطتها، وأدم ودها، وأهدها سبلها، واملأها بنورك الذي لا يخبو، واشرح صدورها بفيض الإيمان بك، وجميل التوكل عليك، وأحيها بمعرفتك، وأمتها على الشهادة في سبيلك، إنك نعم المولى ونعم النصير",
+    "notes": [
+      "The Arabic heading is ورد الرابطة (يقال عند الغروب فقط): the booklet says it is recited at sunset only. The page-22 English heading says 'just before Maghrib'. Preserve these as the booklet's instructions rather than asserting independently established timing.",
+      "The English begins with a separate sunset supplication ('this is the coming of Your night ... Forgive me') that is absent from the Arabic on page 21 and absent from its transliteration on page 22. The separate supplication corresponds to Sunan Abi Dawud 530. Do not insert its Arabic into this record or silently treat the entire English paragraph as a literal translation of the displayed Arabic.",
+      "The Arabic reads نصرة شريعتك, while page-22 transliteration has Nuss'rat Da'watic (نصرة دعوتك). The two source layers disagree; preserve both, and flag any normalized transliteration as editorial.",
+      "The Arabic visibly prints وأهدها with hamza. A separate orthographic normalization to واهدها is proposed; the source field retains the printed form.",
+      "The page-22 transliteration ends Ni'mal-Maseer, while the Arabic is ونعم النصير (wa ni'ma an-nasir). It also renders الشهادة as 'shatati'; neither is a reliable pronunciation guide without correction.",
+      "The English ends 'Oh Allah. Ameen.' but neither is present at the end of the displayed Arabic.",
+      "No repetition count is printed for this item."
+    ],
+    "normalizedArabicProposal": "اللهم إنك تعلم أن هذه القلوب قد اجتمعت على محبتك، والتقت على طاعتك، وتوحدت على دعوتك، وتعاهدت على نصرة شريعتك، فوثق اللهم رابطتها، وأدم ودها، واهدها سبلها، واملأها بنورك الذي لا يخبو، واشرح صدورها بفيض الإيمان بك، وجميل التوكل عليك، وأحيها بمعرفتك، وأمتها على الشهادة في سبيلك، إنك نعم المولى ونعم النصير",
+    "comparisonSource": "https://sunnah.com/abudawud:530"
+  },
+  {
+    "number": 28,
+    "pages": [
+      22
+    ],
+    "arabic": "وصلى الله على نبينا محمد وعلى آله وصحبه وسلم",
+    "notes": [
+      "Read directly from the calligraphic image at 3000-pixel page width. It contains نبينا (our Prophet); the transliteration's Nabiyyin is inconsistent. No تعالى is present after الله in the image.",
+      "No repetition count is printed for this item."
+    ]
+  }
+]
