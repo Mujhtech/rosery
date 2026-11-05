@@ -1,0 +1,51 @@
+{
+  "features" : [
+    "refractivity"
+  ],
+  "fill" : {
+    "solid" : "extended-srgb:0.09412,0.10588,0.09804,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "04-Imame.svg",
+          "name" : "04-Imame"
+        },
+        {
+          "image-name" : "03-Marker.svg",
+          "name" : "03-Marker"
+        },
+        {
+          "image-name" : "02-Glass-Beads.svg",
+          "name" : "02-Glass-Beads"
+        },
+        {
+          "image-name" : "01-Cord.svg",
+          "name" : "01-Cord"
+        }
+      ],
+      "name" : "Glass rosary",
+      "refractivity" : {
+        "depth" : 0.3,
+        "enabled" : true,
+        "strength" : 0.5
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "specular" : true,
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.3
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
