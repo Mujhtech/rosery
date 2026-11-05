@@ -1,0 +1,74 @@
+[
+  {
+    "count" : 33,
+    "height" : 844,
+    "phase" : "01-readouts-normal-33-100",
+    "target" : 100,
+    "type" : "large",
+    "width" : 390
+  },
+  {
+    "count" : 10000,
+    "height" : 844,
+    "phase" : "02-readouts-normal-10000",
+    "target" : 10000,
+    "type" : "large",
+    "width" : 390
+  },
+  {
+    "count" : 10000,
+    "height" : 844,
+    "phase" : "03-readouts-accessibility5-10000",
+    "target" : 10000,
+    "type" : "accessibility5",
+    "width" : 390
+  },
+  {
+    "count" : 33,
+    "height" : 844,
+    "phase" : "04-readouts-accessibility5-33-100",
+    "target" : 100,
+    "type" : "accessibility5",
+    "width" : 390
+  },
+  {
+    "count" : 33,
+    "height" : 844,
+    "phase" : "05-editor-normal-medium",
+    "target" : 100,
+    "type" : "large",
+    "width" : 390
+  },
+  {
+    "count" : 33,
+    "height" : 844,
+    "phase" : "06-editor-normal-large",
+    "target" : 100,
+    "type" : "large",
+    "width" : 390
+  },
+  {
+    "count" : 33,
+    "height" : 844,
+    "phase" : "07-editor-accessibility5-medium",
+    "target" : 100,
+    "type" : "accessibility5",
+    "width" : 390
+  },
+  {
+    "count" : 33,
+    "height" : 844,
+    "phase" : "08-editor-accessibility5-large",
+    "target" : 100,
+    "type" : "accessibility5",
+    "width" : 390
+  },
+  {
+    "count" : 33,
+    "height" : 844,
+    "phase" : "09-editor-accessibility5-bottom",
+    "target" : 100,
+    "type" : "accessibility5",
+    "width" : 390
+  }
+]

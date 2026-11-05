@@ -1,0 +1,18 @@
+[
+  {
+    "count" : 10000,
+    "height" : 844,
+    "phase" : "10-fixed-readouts-normal-10000",
+    "target" : 10000,
+    "type" : "large",
+    "width" : 390
+  },
+  {
+    "count" : 10000,
+    "height" : 844,
+    "phase" : "11-fixed-readouts-accessibility5-10000",
+    "target" : 10000,
+    "type" : "accessibility5",
+    "width" : 390
+  }
+]

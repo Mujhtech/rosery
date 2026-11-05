@@ -1,0 +1,35 @@
+{
+  "method": "Native macOS SwiftUI ImageRenderer, 329 x 345 pt at 3x; the production view is copied to a temporary file with systemLarge injected and unavailable accessory comparisons excluded. Actions use a nonexecuting render stub.",
+  "sourceSha256": {
+    "RoseryWidgets/RoseryWidgets.swift": "0135afe9052f46378b404e4e507abd4b140f3c3757ed2208905907bce82fc000",
+    "RoseryWidgets/TasbihWidgetViews.swift": "75499f333f7b7531661d9141d721625312611f7222a1b46e3e446e8d7356d94a"
+  },
+  "cases": [
+    "light",
+    "dark",
+    "accented",
+    "vibrant",
+    "complete",
+    "custom-10000",
+    "long-phrase",
+    "accessibility1",
+    "accessibility5",
+    "setup"
+  ],
+  "inspected": [
+    "light",
+    "dark",
+    "accented",
+    "complete",
+    "custom-10000",
+    "accessibility5",
+    "setup",
+    "long-phrase"
+  ],
+  "limitations": [
+    "Not a WidgetKit Home Screen host; accented/vibrant captures verify monochrome contrast, not wallpaper tint composition.",
+    "Accessibility cases select the production fallback but retain macOS font metrics; native iOS Dynamic Type verification remains required.",
+    "No intent is executed and no app, simulator, preferences or App Group data is read or changed."
+  ],
+  "typecheck": "Real widget view and configuration typechecked for arm64 iOS17 simulator SDK with application-extension, strict concurrency and warnings-as-errors. Only unrelated Live Activity widget and intent implementation were stubbed; previews omitted."
+}
