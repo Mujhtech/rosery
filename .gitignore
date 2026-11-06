@@ -18,3 +18,7 @@ build/
 .env
 .env.*
 !.env.example
+
+# Working source media and generated UI previews
+/rosery/ContentSources/daily-invocations/photos/
+/rosery/Preview/

@@ -18,11 +18,11 @@ The Library places its two book collections side by side when the window permits
 
 The small, medium and large widgets carry the same warm canvas, quiet numeral and Arabic phrase. Their tactile bead loop surrounds the count, with a brass marker showing progress and a compact circular plus at its lower edge. The small widget places Arabic above the loop; the medium widget gives the phrase and title their own space beside it. The large widget adds a quiet wordmark, phrase title, larger bead loop and a footer for the remaining count or completed round. The entire widget is one count action. The rectangular Lock Screen widget reduces this to the phrase name, count and a plus. System tinting uses primary foreground colors and accentable details; accessibility text sizes use a simpler text-and-count layout. When a round is complete, its arrow opens the tasbih screen.
 
-Native simulator Home Screen captures in `Preview/large-widget/` show the large widget in closed and open layouts. A native widget tap was verified to advance the shared count once without opening the app; the app read back that count and Undo restored it.
+Native simulator checks confirmed the large widget in closed and open layouts. A native widget tap was verified to advance the shared count once without opening the app; the app read back that count and Undo restored it.
 
 The Watch companion uses a black canvas, warm white text and a restrained brass accent. A static bead loop frames the count without a RealityKit scene or continuous animation, reducing work for the Always On display. The main count target stays large; selection, targets, undo, restart, meaning and source references live in compact native navigation. Haptics follow the saved preference and are suppressed when the display is dimmed. Pending sync and round conflicts are visible without obscuring the counter.
 
-The app icon is a layered glass tasbih on a dark green-charcoal field. Cord, beads, marker and imame remain separate SVG layers in `rosery/AppIcon.icon/`; Icon Composer supplies refraction, translucency, highlights and shadow. `Preview/icon-liquid-glass.png` records the exported appearance.
+The app icon is a layered glass tasbih on a dark green-charcoal field. Cord, beads, marker and imame remain separate SVG layers in `rosery/AppIcon.icon/`; Icon Composer supplies refraction, translucency, highlights and shadow.
 
 ## Behavior
 

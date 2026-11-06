@@ -1,2 +1,0 @@
-CounterReadout block SHA256 5d8ca60c415de8629bdb36cbbb1c7fa8f1428b9c8460a8349822d17cdc7e0a05
-TargetPickerView compiled directly from app source

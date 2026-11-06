@@ -12,9 +12,9 @@ Version 1.0 (8) is available to the existing Rosery Internal group in [TestFligh
 
 Build 8 includes the 96-entry Daily invocations collection, adaptive Duo layouts, the large Home Screen widget and the Watch companion. All three IPA bundles passed strict/deep signature, App Store profile, entitlement and resource verification; all 74 frozen source/resource/project files remained unchanged. Evidence is `.asc/artifacts/release8-verification.json` and `.asc/artifacts/ipa8-info.json`. The signed combined iPhone, widget and Watch simulator build passed with no Swift compiler warnings. Its raw log includes one AppIntents metadata-extraction warning for the Watch target, which has no AppIntents dependency. The strict watchOS 10 typecheck and the core and Watch sync checks also passed.
 
-Cleanup on 4 November 2026 retained TestFlight build 8 and the previously retained fallback build 3, and expired superseded builds 1, 2, 4, 5, 6 and 7. Tester memberships were not changed. About 5.13 GiB of generated caches, old DerivedData, the downloaded Watch runtime installer and a never-uploaded candidate were moved to macOS Trash. Released archives/IPAs, crash symbols, source files, release evidence and the installed Watch runtime remain available. `.asc/artifacts/cleanup-status.json` records the verified result.
+Cleanup on 4 November 2026 retained TestFlight build 8 and the previously retained fallback build 3, and expired superseded builds 1, 2, 4, 5, 6 and 7. Tester memberships were not changed. About 5.13 GiB of generated caches, old DerivedData, the downloaded Watch runtime installer and a never-uploaded candidate were moved to macOS Trash. Released archives/IPAs, crash symbols, app source, extracted reading content, release evidence and the installed Watch runtime remain available. `.asc/artifacts/cleanup-status.json` records the verified result.
 
-The large widget was added through the native gallery on the simulator. A tap advanced the count from 22 to 23 without opening Rosery; opening the app confirmed 23, and Undo restored 22. Native closed and open layouts are captured in [`Preview/large-widget/`](Preview/large-widget/README.md). The Watch simulator installed the companion and displayed its initial iPhone-connection screen. Synchronization between a paired iPhone and Watch remains unverified; see `VALIDATION.md` for the current evidence.
+The large widget was added through the native gallery on the simulator. A tap advanced the count from 22 to 23 without opening Rosery; opening the app confirmed 23, and Undo restored 22. The Watch simulator installed the companion and displayed its initial iPhone-connection screen. Synchronization between a paired iPhone and Watch remains unverified; see `VALIDATION.md` for the current evidence.
 
 Build 7 adds optional daily reminders and interactive Live Activities, plus an accessibility layout improvement for Focus controls. `.asc/artifacts/release7-status.json` records the completed release and readback evidence. Existing TestFlight builds and tester memberships remain unchanged; build 3 remains valid and unexpired.
 
@@ -85,7 +85,7 @@ Protection and healing is a devotional collection. The app does not promise medi
 
 The supplied 22-page Al-Mathurat booklet is retained in `ContentSources/al-mathurat/`, together with its checksum, a readable extraction and structured JSON. The app bundles that JSON at `rosery/Content/al-mathurat.json` and presents it as a separate edition. Its counts and timing are attributed to the booklet: readings 6–24 say three repetitions; readings 1–5 and 25–28 specify no count. Source wording is preserved, documented Arabic spelling corrections are identified, and the full printed English for item 27 remains available beside an explanation of its mismatch with the Arabic. The booklet has no item-level hadith bibliography. See `ContentSources/al-mathurat/README.md` for the extraction contract and editorial notes.
 
-The 36 supplied photographs of *Al-Ma’thurat: Companion on the Path*, printed pages 81–152, are preserved with checksums in `ContentSources/daily-invocations/`. A separate Daily invocations collection contains 88 Arabic passages, three formulas printed only in Latin, and five guidance passages. Significant differences between Arabic, transliteration and English are visible before the reading and detailed in source notes. Counts follow this source, including variable and prayer-stage counts. Chapter context distinguishes restarted footnote numbering; the missing endnote bibliography is not reconstructed. This edition is included in TestFlight build 8. See `ContentSources/daily-invocations/README.md` for the source contract and checks.
+The Daily invocations edition was extracted from 36 supplied photographs of *Al-Ma’thurat: Companion on the Path*, printed pages 81–152. The source photos and generated verification captures were removed from the codebase at the user’s request; extracted content and source notes remain in `ContentSources/daily-invocations/`. A separate Daily invocations collection contains 88 Arabic passages, three formulas printed only in Latin, and five guidance passages. Significant differences between Arabic, transliteration and English are visible before the reading and detailed in source notes. Counts follow this source, including variable and prayer-stage counts. Chapter context distinguishes restarted footnote numbering; the missing endnote bibliography is not reconstructed. This edition is included in TestFlight build 8. See `ContentSources/daily-invocations/README.md` for the source contract and checks.
 
 ## Core checks
 
@@ -150,13 +150,13 @@ Arabic text uses [Noto Naskh Arabic Regular](https://notofonts.github.io/arabic/
 
 The bead object is rendered natively with RealityKit in a non-AR view. It needs no camera access or downloaded assets. iOS 18 and later add a procedural studio reflection environment; iOS 17 uses direct lighting.
 
-The layered Liquid Glass icon source is `rosery/AppIcon.icon/`, editable in Icon Composer. Its separate SVG layers form the cord, glass beads, marker and imame, with material effects defined in `icon.json`. `Preview/icon-liquid-glass.png` is an exported preview. `Scripts/RenderAppIcon.swift` and the PNG in `Assets.xcassets` are the earlier raster icon assets.
+The layered Liquid Glass icon source is `rosery/AppIcon.icon/`, editable in Icon Composer. Its separate SVG layers form the cord, glass beads, marker and imame, with material effects defined in `icon.json`. `Scripts/RenderAppIcon.swift` and the PNG in `Assets.xcassets` are the earlier raster icon assets.
 
 Re-export the preview from the project directory with the installed Xcode tools:
 
 ```sh
 '/Applications/Xcode.app/Contents/Applications/Icon Composer.app/Contents/Executables/ictool' \
-  rosery/AppIcon.icon --export-image --output-file Preview/icon-liquid-glass.png \
+  rosery/AppIcon.icon --export-image --output-file /private/tmp/rosery-icon-preview.png \
   --platform iOS --rendition Default --width 1024 --height 1024 --scale 1
 ```
 

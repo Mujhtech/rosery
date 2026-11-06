@@ -4,9 +4,7 @@ The user supplied 36 photographs in two batches, `IMG_3493.HEIC` through `IMG_35
 
 ## Files
 
-- `photos/`: unchanged HEIC originals, retained for review and excluded from app resources.
-- `source-manifest.json`: original filenames, SHA-256 checksums and printed page pairs.
-- `convert-photos.md`: portable libheif conversion instructions. The system HEIC decoder produced black output for these files; libheif produced readable images.
+- `source-manifest.json`: original filenames, SHA-256 checksums and printed page pairs recorded during extraction. The source photographs are not stored in this repository.
 - `daily-invocations.json`: canonical structured edition, identical to `rosery/Content/daily-invocations.json`.
 - `daily-invocations.md`: readable rendering of the structured edition.
 
@@ -35,7 +33,7 @@ The user supplied 36 photographs in two batches, `IMG_3493.HEIC` through `IMG_35
 | Illness and bereavement | 144–150 | 89–95 |
 | Salatut Tasbih | 151–152 | 96 |
 
-There are 96 entries: all 88 displayed Arabic invocation passages, three formulas printed inline only in Latin, and five practical passages without fixed recitation text. The latter preserve advice about dreams, the three-surah bedtime sequence, a newborn’s adhan, conveyed greetings, and a summarized condolence letter. Full narrator chains, surrounding narrative and reported rewards are not transcribed in full; they remain available in the photographs.
+There are 96 entries: all 88 displayed Arabic invocation passages, three formulas printed inline only in Latin, and five practical passages without fixed recitation text. The latter preserve advice about dreams, the three-surah bedtime sequence, a newborn’s adhan, conveyed greetings, and a summarized condolence letter. Full narrator chains, surrounding narrative and reported rewards are not transcribed in full.
 
 The eight fixed recitation counts are bedtime forgiveness ×3, after-prayer SubhanAllah/Alhamdulillah/Allahu Akbar ×33 each, the once-recited hundredth remembrance after those 99, the new-month invocation ×3, and the two pain invocations ×3 and ×7. Rainfall explicitly offers two or three repetitions; Salatut Tasbih assigns 15 and 10 repetitions to different prayer stages. Those two entries use `repetitionGuidance` with null scalar counts. All other recitation counts are null. The three bed-wiping motions and three repetitions of the bedtime surah sequence belong to the practice descriptions.
 
@@ -52,7 +50,7 @@ The root has `schemaVersion`, `document`, `extraction`, and `entries`. Each entr
 - `repetitionGuidance`: a label for an explicit variable count or compound sequence whose instructions cannot be represented by one positive integer.
 - `sourcePages` / `sourceFootnotes`: printed page and footnote references. The endnotes themselves were not supplied.
 - `sourcePart`: context distinguishing daily routines from Section Four’s restarted reference numbering.
-- `sourcePhotoFiles`: original filenames covering those pages, resolved against the manifest.
+- `sourcePhotoFiles`: original filenames covering those pages, recorded in the manifest as extraction provenance rather than local image paths.
 - `readingNote`: an immediately visible note for a significant mismatch between source layers.
 - `notes`: detailed source discrepancies and transcription context, available in the reader’s disclosure.
 
